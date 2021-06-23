@@ -4,7 +4,7 @@ import logo from "../../../assets/images/bottomleft.png";
 function Profile(props) {
   return (
     <div className={!props.isPlayer ? "mt-6" : ""}>
-      <a href="https://twitter.com/home" target="_blank" rel="noreferrer">
+      <a href={props.twitch} target="_blank" rel="noreferrer">
         <img
           src={props.imageUrl}
           alt={props.name}

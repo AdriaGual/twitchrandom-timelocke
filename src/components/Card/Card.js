@@ -25,12 +25,14 @@ function Card(props) {
             isPlayer={true}
             name={props.data.playerName}
             imageUrl={props.data.playerImageUrl}
+            twitch={props.data.playerTwitch}
           ></Profile>
           {props.data.hasCoach ? (
             <Profile
               isPlayer={false}
               name={props.data.coachName}
               imageUrl={props.data.coachImageUrl}
+              twitch={props.data.coachTwitch}
             ></Profile>
           ) : (
             ""
