@@ -17,12 +17,6 @@ function TopBar() {
             className="text-white text-xl font-semibold hidden lg:flex"
             durationFromNow
           />
-          <div className=" flex-grow"></div>
-          <div className="flex gap-4">
-            <p className="text-white">Inicio</p>
-            <p className="text-white">Novedades</p>
-            <p className="text-white">Top Cut</p>
-          </div>
         </div>
         <div></div>
       </div>
