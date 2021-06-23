@@ -1,18 +1,10 @@
-import topRight from "../assets/images/topright.png";
 import TopBar from "../components/TopBar/TopBar";
+import Main from "../components/Main/Main";
 function App() {
   return (
     <div>
       <TopBar></TopBar>
-      <div
-        className=" h-screen"
-        style={{
-          backgroundImage: `url(${topRight})`,
-          backgroundRepeat: "no-repeat",
-        }}
-      >
-        dd
-      </div>
+      <Main></Main>
     </div>
   );
 }
