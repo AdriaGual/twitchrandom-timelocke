@@ -6,7 +6,7 @@ import Lifes from "./Lifes/Lifes";
 
 function Card(props) {
   return (
-    <div class="w-full border-4 rounded border-purple bg-white mt-4 py-6">
+    <div class="w-full border-4 rounded border-purple bg-white my-4 py-6">
       <div class="grid grid-cols-5 px-20">
         <div class="col-span-2">
           <Profile

@@ -9,7 +9,6 @@ function Main() {
 
   return (
     <div
-      className="h-screen"
       style={{
         backgroundImage: `url(${topRight})`,
         backgroundRepeat: "no-repeat",
@@ -18,7 +17,7 @@ function Main() {
       <div className="relative">
         <div class="grid grid-cols-5 absolute inset-0">
           <div></div>
-          <div class="col-span-3 ">
+          <div class="col-span-3">
             {streamerTeams.map((data, index) => {
               return <Card data={data}></Card>;
             })}

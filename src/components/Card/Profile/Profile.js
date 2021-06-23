@@ -4,7 +4,7 @@ import logo from "../../../assets/images/bottomleft.png";
 function Profile(props) {
   return (
     <div className={!props.isPlayer ? "mt-6" : ""}>
-      <a href="https://twitter.com/home">
+      <a href="https://twitter.com/home" target="_blank" rel="noreferrer">
         <img
           src={props.imageUrl}
           alt={props.name}
@@ -17,7 +17,7 @@ function Profile(props) {
             </div>
           </div>
 
-          <div className="absolute top-9 left-24 z-10">
+          <div className="absolute top-9 left-24">
             <div className="profile-card-position w-32 h-6 flex items-center p-2 text-white">
               <p className="font-semibold">
                 {props.isPlayer ? "JUGADOR" : "COACH"}
