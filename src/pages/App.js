@@ -17,7 +17,7 @@ function App() {
                 name="description"
                 content="Todos los equipos de la Twitch Cup 2021."
               />
-              <link rel="canonical" href="http://twitch-cup.ga" />
+              <link rel="canonical" href="http://twitchcup.ga" />
             </Helmet>
             <TopBar></TopBar>
             <Main></Main>
