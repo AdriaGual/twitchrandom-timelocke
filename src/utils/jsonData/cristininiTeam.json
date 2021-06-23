@@ -1,0 +1,27 @@
+{
+  "playerName": "IAmCristinini",
+  "playerTwitch": "iamCristinini",
+  "playerImageUrl": "http://lacuevadelvirgen.com/wp-content/uploads/2020/10/cristinini.jpg",
+  "hasCoach": true,
+  "coachName": "Elesky",
+  "coachTwitch": "elesky",
+  "coachImageUrl": "https://pbs.twimg.com/profile_images/1401606576906047488/yJutK29m.jpg",
+  "badges": 3,
+  "lifes": 14,
+  "team": [
+    {
+      "pokemonName": "Charizard",
+      "pokemonImage": "",
+      "pokemonHability": "",
+      "pokemonMoves": [
+        {
+          "moveName": "Terremoto",
+          "damage": 100,
+          "accuracy": 100,
+          "PP": 10,
+          "type": "Tierra"
+        }
+      ]
+    }
+  ]
+}

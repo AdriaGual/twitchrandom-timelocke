@@ -1,0 +1,27 @@
+{
+  "playerName": "IAmCristinini",
+  "playerTwitch": "iamCristinini",
+  "playerImageUrl": "",
+  "hasCoach": false,
+  "coachName": "Elesky",
+  "coachTwitch": "elesky",
+  "coachImageUrl": "",
+  "badges": 3,
+  "lifes": 14,
+  "team": [
+    {
+      "pokemonName": "Charizard",
+      "pokemonImage": "",
+      "pokemonHability": "",
+      "pokemonMoves": [
+        {
+          "moveName": "Terremoto",
+          "damage": 100,
+          "accuracy": 100,
+          "PP": 10,
+          "type": "Tierra"
+        }
+      ]
+    }
+  ]
+}

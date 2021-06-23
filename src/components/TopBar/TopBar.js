@@ -20,7 +20,7 @@ function TopBar() {
           <div className=" flex-grow"></div>
           <div className="flex gap-4">
             <p className="text-white">Inicio</p>
-            <p className="text-white">Clips</p>
+            <p className="text-white">Novedad</p>
             <p className="text-white">Top Cut</p>
           </div>
         </div>
