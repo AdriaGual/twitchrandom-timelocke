@@ -38,13 +38,13 @@ function Badges(props) {
           return data < props.badges ? (
             <img
               src={earnedBadges[data]}
-              alt={earnedBadges[data]}
+              alt={index}
               className="h-8 mx-auto"
             ></img>
           ) : (
             <img
               src={remainingBadges[data]}
-              alt={remainingBadges[data]}
+              alt={index}
               className="h-8 mx-auto"
             ></img>
           );
