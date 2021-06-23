@@ -4,7 +4,7 @@ import Card from "../Card/Card";
 function Main() {
   return (
     <div
-      className=" h-screen"
+      className="h-screen"
       style={{
         backgroundImage: `url(${topRight})`,
         backgroundRepeat: "no-repeat",
@@ -14,7 +14,6 @@ function Main() {
         <div class="grid grid-cols-5 absolute inset-0">
           <div></div>
           <div class="col-span-3 flex items-center">
-            <div className="h-24"></div>
             <Card></Card>
           </div>
           <div></div>
