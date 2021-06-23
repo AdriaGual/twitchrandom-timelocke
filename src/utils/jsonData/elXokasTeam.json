@@ -1,17 +1,17 @@
 {
-  "playerName": "Mery Soldier",
-  "playerTwitch": "https://www.twitch.tv/mery_soldier",
-  "playerImageUrl": "https://pbs.twimg.com/profile_images/1347200783675252737/YkzKfkIO.jpg",
-  "hasCoach": true,
-  "coachName": "Oscar Brock",
-  "coachTwitch": "https://www.twitch.tv/oscarbrock",
-  "coachImageUrl": "https://pbs.twimg.com/profile_images/1365826539221360643/TbayXKLN_400x400.jpg",
-  "badges": 2,
-  "lifes": 17,
+  "playerName": "elXokas",
+  "playerTwitch": "https://www.twitch.tv/elxokas",
+  "playerImageUrl": "https://paragamersesport.com/wp-content/uploads/2020/10/elxokas.jpg",
+  "hasCoach": false,
+  "coachName": "Dazbrn",
+  "coachTwitch": "https://www.twitch.tv/dazrbn",
+  "coachImageUrl": "https://p16-va-tiktok.ibyteimg.com/img/musically-maliva-obj/1615503628127238~c5_720x720.jpeg",
+  "badges": 5,
+  "lifes": 14,
   "team": [
     {
-      "pokemonName": "Tequilita",
-      "pokemonIndex": 83,
+      "pokemonName": "SOYKNEKRER",
+      "pokemonIndex": 153,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     {
-      "pokemonName": "Absenta",
-      "pokemonIndex": 217,
+      "pokemonName": "ALAPOCHA",
+      "pokemonIndex": 17,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "pokemonName": "Margarita",
-      "pokemonIndex": 69,
+      "pokemonName": "JESUCRISTO",
+      "pokemonIndex": 250,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
@@ -91,8 +91,8 @@
       ]
     },
     {
-      "pokemonName": "Ronsito",
-      "pokemonIndex": 215,
+      "pokemonName": "TOTOJUAN",
+      "pokemonIndex": 159,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
@@ -118,8 +118,8 @@
       ]
     },
     {
-      "pokemonName": "Malibu",
-      "pokemonIndex": 193,
+      "pokemonName": "MATAIBAIS",
+      "pokemonIndex": 147,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
@@ -145,8 +145,8 @@
       ]
     },
     {
-      "pokemonName": "Jager",
-      "pokemonIndex": 175,
+      "pokemonName": "WILLIREX",
+      "pokemonIndex": 64,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {

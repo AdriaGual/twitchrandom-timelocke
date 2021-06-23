@@ -1,17 +1,17 @@
 {
-  "playerName": "Mery Soldier",
-  "playerTwitch": "https://www.twitch.tv/mery_soldier",
-  "playerImageUrl": "https://pbs.twimg.com/profile_images/1347200783675252737/YkzKfkIO.jpg",
+  "playerName": "Mayichi",
+  "playerTwitch": "https://www.twitch.tv/mayichi",
+  "playerImageUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/98a9eb2b-0d5b-4207-bb3a-8e6ee69c0bb2-profile_image-300x300.png",
   "hasCoach": true,
-  "coachName": "Oscar Brock",
-  "coachTwitch": "https://www.twitch.tv/oscarbrock",
-  "coachImageUrl": "https://pbs.twimg.com/profile_images/1365826539221360643/TbayXKLN_400x400.jpg",
-  "badges": 2,
-  "lifes": 17,
+  "coachName": "Shadoune666",
+  "coachTwitch": "https://www.twitch.tv/shadoune666",
+  "coachImageUrl": "https://pbs.twimg.com/media/EjLatpMXYAEdmgt.png",
+  "badges": 3,
+  "lifes": 20,
   "team": [
     {
-      "pokemonName": "Tequilita",
-      "pokemonIndex": 83,
+      "pokemonName": "DRAKUKEO",
+      "pokemonIndex": 168,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     {
-      "pokemonName": "Absenta",
-      "pokemonIndex": 217,
+      "pokemonName": "COQUETA",
+      "pokemonIndex": 177,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "pokemonName": "Margarita",
-      "pokemonIndex": 69,
+      "pokemonName": "CONTERSITA",
+      "pokemonIndex": 29,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
@@ -91,8 +91,8 @@
       ]
     },
     {
-      "pokemonName": "Ronsito",
-      "pokemonIndex": 215,
+      "pokemonName": "MARI",
+      "pokemonIndex": 183,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
@@ -118,8 +118,8 @@
       ]
     },
     {
-      "pokemonName": "Malibu",
-      "pokemonIndex": 193,
+      "pokemonName": "LORDCUERVO",
+      "pokemonIndex": 21,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
@@ -145,8 +145,8 @@
       ]
     },
     {
-      "pokemonName": "Jager",
-      "pokemonIndex": 175,
+      "pokemonName": "SHADOUNA",
+      "pokemonIndex": 66,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {

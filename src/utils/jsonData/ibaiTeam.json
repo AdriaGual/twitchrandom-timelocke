@@ -1,0 +1,148 @@
+{
+  "playerName": "Ibai",
+  "playerTwitch": "https://www.twitch.tv/ibai",
+  "playerImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPNIocGPdjLejwmJjegNM8apISbR-JSnZ3wJC8sQ=s900-c-k-c0x00ffffff-no-rj",
+  "hasCoach": true,
+  "coachName": "Sekiam",
+  "coachTwitch": "https://www.twitch.tv/sekiam",
+  "coachImageUrl": "data:image/jpeg;base64,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",
+  "badges": 2,
+  "lifes": 11,
+  "team": [
+    {
+      "pokemonName": "ELBOMBAS",
+      "pokemonIndex": 100,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        }
+      ]
+    },
+    {
+      "pokemonName": "LAVEGANA",
+      "pokemonIndex": 187,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Hidrocañón",
+          "PP": 5,
+          "type": "Agua"
+        },
+        {
+          "moveName": "Psicoataque",
+          "PP": 5,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Disp. Lodo",
+          "PP": 15,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Espora",
+          "PP": 15,
+          "type": "Planta"
+        }
+      ]
+    },
+    {
+      "pokemonName": "MOLTRES",
+      "pokemonIndex": 21,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Psíquico",
+          "PP": 10,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Megapatada",
+          "PP": 10,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Magnitud",
+          "PP": 30,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Bomba Huevo",
+          "PP": 10,
+          "type": "Normal"
+        }
+      ]
+    },
+    {
+      "pokemonName": "MARISOL",
+      "pokemonIndex": 51,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Huesomerang",
+          "PP": 10,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Gancho Alto",
+          "PP": 15,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Excavar",
+          "PP": 10,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Bola Sombra",
+          "PP": 15,
+          "type": "Fantasma"
+        }
+      ]
+    },
+    {
+      "pokemonName": "JAGGER",
+      "pokemonIndex": 235,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Megapatada",
+          "PP": 10,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Megapuño",
+          "PP": 10,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Ataque arena",
+          "PP": 15,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Polución",
+          "PP": 15,
+          "type": "Veneno"
+        }
+      ]
+    }
+  ]
+}

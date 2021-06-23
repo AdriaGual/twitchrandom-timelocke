@@ -39,10 +39,14 @@ function Badges(props) {
             <img
               src={earnedBadges[data]}
               alt={earnedBadges[data]}
-              className="h-8 m-auto"
+              className="h-8 mx-auto"
             ></img>
           ) : (
-            <img src={remainingBadges[data]} alt={remainingBadges[data]}></img>
+            <img
+              src={remainingBadges[data]}
+              alt={remainingBadges[data]}
+              className="h-8 mx-auto"
+            ></img>
           );
         })}
       </div>

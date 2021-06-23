@@ -1,0 +1,170 @@
+{
+  "playerName": "Maximus",
+  "playerTwitch": "https://www.twitch.tv/agentemaxo",
+  "playerImageUrl": "https://ggupfest.com/wp-content/uploads/2020/12/maximus.jpg",
+  "hasCoach": true,
+  "coachName": "FrigoAdri",
+  "coachTwitch": "https://www.twitch.tv/frigoadri",
+  "coachImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFX-j1u4jF1uVEUvjundDw4aVHUxoRTKxkKQ&usqp=CAU",
+  "badges": 2,
+  "lifes": 20,
+  "team": [
+    {
+      "pokemonName": "OOOO",
+      "pokemonIndex": 222,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        }
+      ]
+    },
+    {
+      "pokemonName": "MEWTWO",
+      "pokemonIndex": 27,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Hidrocañón",
+          "PP": 5,
+          "type": "Agua"
+        },
+        {
+          "moveName": "Psicoataque",
+          "PP": 5,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Disp. Lodo",
+          "PP": 15,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Espora",
+          "PP": 15,
+          "type": "Planta"
+        }
+      ]
+    },
+    {
+      "pokemonName": "XIN ZHAO",
+      "pokemonIndex": 155,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Psíquico",
+          "PP": 10,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Megapatada",
+          "PP": 10,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Magnitud",
+          "PP": 30,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Bomba Huevo",
+          "PP": 10,
+          "type": "Normal"
+        }
+      ]
+    },
+    {
+      "pokemonName": "DORAEMON",
+      "pokemonIndex": 183,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Huesomerang",
+          "PP": 10,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Gancho Alto",
+          "PP": 15,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Excavar",
+          "PP": 10,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Bola Sombra",
+          "PP": 15,
+          "type": "Fantasma"
+        }
+      ]
+    },
+    {
+      "pokemonName": "MAKELELE",
+      "pokemonIndex": 187,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Megapatada",
+          "PP": 10,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Megapuño",
+          "PP": 10,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Ataque arena",
+          "PP": 15,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Polución",
+          "PP": 15,
+          "type": "Veneno"
+        }
+      ]
+    },
+    {
+      "pokemonName": "MAMAWEVASO",
+      "pokemonIndex": 32,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Bote",
+          "PP": 5,
+          "type": "Volador"
+        },
+        {
+          "moveName": "Paz Mental",
+          "PP": 10,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Hoja aguda",
+          "PP": 15,
+          "type": "Planta"
+        }
+      ]
+    }
+  ]
+}

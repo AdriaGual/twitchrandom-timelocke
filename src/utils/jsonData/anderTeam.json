@@ -1,95 +1,168 @@
 {
-  "playerName": "IAmCristinini",
-  "playerTwitch": "iamCristinini",
-  "playerImageUrl": "http://lacuevadelvirgen.com/wp-content/uploads/2020/10/cristinini.jpg",
+  "playerName": "TvandeR",
+  "playerTwitch": "https://www.twitch.tv/tvander",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1171141242371158024/kNRdsWTv.jpg",
   "hasCoach": true,
-  "coachName": "Elesky",
-  "coachTwitch": "elesky",
-  "coachImageUrl": "https://pbs.twimg.com/profile_images/1401606576906047488/yJutK29m.jpg",
-  "badges": 8,
-  "lifes": 14,
+  "coachName": "Sliverrk",
+  "coachTwitch": "https://www.twitch.tv/sliverrk",
+  "coachImageUrl": "https://pbs.twimg.com/profile_images/1168845831639842816/79CXpQ95_400x400.jpg",
+  "badges": 0,
+  "lifes": 20,
   "team": [
     {
-      "pokemonName": "Charizard",
-      "pokemonIndex": 0,
-      "pokemonHability": "",
+      "pokemonName": "QUINOA",
+      "pokemonIndex": 186,
+      "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
           "moveName": "Terremoto",
-          "damage": 100,
-          "accuracy": 100,
           "PP": 10,
           "type": "Tierra"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
         }
       ]
     },
     {
-      "pokemonName": "Charizard",
-      "pokemonIndex": 0,
-      "pokemonHability": "",
+      "pokemonName": "Bayleef",
+      "pokemonIndex": 152,
+      "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Terremoto",
-          "damage": 100,
-          "accuracy": 100,
-          "PP": 10,
+          "moveName": "Hidrocañón",
+          "PP": 5,
+          "type": "Agua"
+        },
+        {
+          "moveName": "Psicoataque",
+          "PP": 5,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Disp. Lodo",
+          "PP": 15,
           "type": "Tierra"
+        },
+        {
+          "moveName": "Espora",
+          "PP": 15,
+          "type": "Planta"
         }
       ]
     },
     {
-      "pokemonName": "Charizard",
-      "pokemonIndex": 0,
-      "pokemonHability": "",
+      "pokemonName": "JORDI CRUZ",
+      "pokemonIndex": 234,
+      "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Terremoto",
-          "damage": 100,
-          "accuracy": 100,
+          "moveName": "Psíquico",
           "PP": 10,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Megapatada",
+          "PP": 10,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Magnitud",
+          "PP": 30,
           "type": "Tierra"
+        },
+        {
+          "moveName": "Bomba Huevo",
+          "PP": 10,
+          "type": "Normal"
         }
       ]
     },
     {
-      "pokemonName": "Charizard",
-      "pokemonIndex": 0,
-      "pokemonHability": "",
+      "pokemonName": "ALYSSA",
+      "pokemonIndex": 22,
+      "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Terremoto",
-          "damage": 100,
-          "accuracy": 100,
+          "moveName": "Huesomerang",
           "PP": 10,
           "type": "Tierra"
+        },
+        {
+          "moveName": "Gancho Alto",
+          "PP": 15,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Excavar",
+          "PP": 10,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Bola Sombra",
+          "PP": 15,
+          "type": "Fantasma"
         }
       ]
     },
     {
-      "pokemonName": "Charizard",
-      "pokemonIndex": 0,
-      "pokemonHability": "",
+      "pokemonName": "C. TANGANA",
+      "pokemonIndex": 38,
+      "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Terremoto",
-          "damage": 100,
-          "accuracy": 100,
+          "moveName": "Megapatada",
           "PP": 10,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Megapuño",
+          "PP": 10,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Ataque arena",
+          "PP": 15,
           "type": "Tierra"
+        },
+        {
+          "moveName": "Polución",
+          "PP": 15,
+          "type": "Veneno"
         }
       ]
     },
     {
-      "pokemonName": "Charizard",
-      "pokemonIndex": 0,
-      "pokemonHability": "",
+      "pokemonName": "CUCU",
+      "pokemonIndex": 162,
+      "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Terremoto",
-          "damage": 100,
-          "accuracy": 100,
+          "moveName": "Bote",
+          "PP": 5,
+          "type": "Volador"
+        },
+        {
+          "moveName": "Paz Mental",
           "PP": 10,
-          "type": "Tierra"
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Hoja aguda",
+          "PP": 15,
+          "type": "Planta"
         }
       ]
     }
