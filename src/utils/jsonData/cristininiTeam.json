@@ -11,7 +11,7 @@
   "team": [
     {
       "pokemonName": "Charizard",
-      "pokemonImage": "",
+      "pokemonIndex": 0,
       "pokemonHability": "",
       "pokemonMoves": [
         {
