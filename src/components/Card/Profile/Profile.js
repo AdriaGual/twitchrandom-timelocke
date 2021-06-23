@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "../../../assets/images/bottomleft.png";
 
 function Profile(props) {
   return (
