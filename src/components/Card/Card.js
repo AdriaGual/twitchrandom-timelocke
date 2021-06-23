@@ -20,8 +20,12 @@ function Card(props) {
           ) : (
             ""
           )}
-
-          <Badges></Badges>
+        </div>
+        <div class="col-span-3">sss</div>
+      </div>
+      <div class="grid grid-cols-5 px-20">
+        <div class="col-span-2">
+          <Badges badges={props.data.badges}></Badges>
         </div>
         <div class="col-span-3">sss</div>
       </div>
