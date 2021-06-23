@@ -1,16 +1,15 @@
 import React from "react";
-import nidoking from "../../../assets/images/sprites/nidoking.gif";
+import { getPokemon } from "../../../utils/pokemons";
 function Pokemon(props) {
-  const pokemonGifs = [nidoking];
   return (
     <div>
       {props.pokemonImage}
       <img
-        src={pokemonGifs[props.pokemonIndex]}
-        className="mx-auto h-28"
-        alt={pokemonGifs[props.pokemonIndex]}
+        src={getPokemon(props.pokemonIndex)}
+        className="mx-auto h-24"
+        alt={getPokemon(props.pokemonIndex)}
       ></img>
-      <p className="text-center">{props.pokemonName}</p>
+      <p className="text-center font-semibold text-lg">{props.pokemonName}</p>
     </div>
   );
 }

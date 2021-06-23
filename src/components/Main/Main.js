@@ -3,12 +3,14 @@ import topRight from "../../assets/images/topright.png";
 import Card from "../Card/Card";
 import cristininiTeam from "../../utils/jsonData/cristininiTeam.json";
 import anderTeam from "../../utils/jsonData/anderTeam.json";
+import Footer from "../../components/Footer/Footer";
 
 function Main() {
   const streamerTeams = [cristininiTeam, anderTeam];
 
   return (
     <div
+      className="h-screen"
       style={{
         backgroundImage: `url(${topRight})`,
         backgroundRepeat: "no-repeat",
@@ -21,6 +23,7 @@ function Main() {
             {streamerTeams.map((data, index) => {
               return <Card data={data}></Card>;
             })}
+            <Footer></Footer>
           </div>
           <div></div>
         </div>
