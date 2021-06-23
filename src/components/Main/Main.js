@@ -27,7 +27,6 @@ function Main() {
     chusoTeam,
     elXokasTeam,
     felipezTeam,
-    folagorTeam,
     ibaiTeam,
     lmdShowTeam,
     maximusTeam,
@@ -37,6 +36,7 @@ function Main() {
     richMCTeam,
     silithurTeam,
     werlybTeam,
+    folagorTeam,
   ];
 
   return (
