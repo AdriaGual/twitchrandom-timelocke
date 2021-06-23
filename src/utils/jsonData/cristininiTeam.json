@@ -6,20 +6,87 @@
   "coachName": "Elesky",
   "coachTwitch": "elesky",
   "coachImageUrl": "https://pbs.twimg.com/profile_images/1401606576906047488/yJutK29m.jpg",
-  "badges": 8,
-  "lifes": 14,
+  "badges": 3,
+  "lifes": 18,
   "team": [
     {
-      "pokemonName": "Charizard",
-      "pokemonIndex": 0,
-      "pokemonHability": "",
+      "pokemonName": "Spidi",
+      "pokemonIndex": 167,
+      "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
           "moveName": "Terremoto",
-          "damage": 100,
-          "accuracy": 100,
           "PP": 10,
           "type": "Tierra"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        }
+      ]
+    },
+    {
+      "pokemonName": "Inutilidad",
+      "pokemonIndex": 11,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        },
+        {
+          "moveName": "Terremoto",
+          "PP": 10,
+          "type": "Hada"
+        }
+      ]
+    },
+    {
+      "pokemonName": "Algodon",
+      "pokemonIndex": 179,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Psíquico",
+          "PP": 10,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Megapatada",
+          "PP": 5,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Magnitud",
+          "PP": 30,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Bomba Huevo",
+          "PP": 10,
+          "type": "Normal"
         }
       ]
     }

@@ -43,6 +43,8 @@ function Card(props) {
                 <Pokemon
                   pokemonName={data.pokemonName}
                   pokemonIndex={data.pokemonIndex}
+                  pokemonMoves={data.pokemonMoves}
+                  pokemonHability={data.pokemonHability}
                 ></Pokemon>
               );
             })}
