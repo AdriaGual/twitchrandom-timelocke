@@ -84,8 +84,8 @@
           "type": "Tierra"
         },
         {
-          "moveName": "Bomba Huevo",
-          "PP": 10,
+          "moveName": "Falsotortazo",
+          "PP": 40,
           "type": "Normal"
         }
       ]
