@@ -6,163 +6,168 @@
   "coachName": "FrigoAdri",
   "coachTwitch": "https://www.twitch.tv/frigoadri",
   "coachImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFX-j1u4jF1uVEUvjundDw4aVHUxoRTKxkKQ&usqp=CAU",
-  "badges": 2,
-  "lifes": 20,
+  "badges": 5,
+  "lifes": 19,
   "team": [
     {
       "pokemonName": "OOOO",
-      "pokemonIndex": 222,
+      "pokemonIndex": 223,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Psicorrayo",
+          "PP": 20,
+          "type": "Psíquico"
         },
         {
-          "moveName": "Terremoto",
+          "moveName": "Enfado",
           "PP": 10,
-          "type": "Hada"
+          "type": "Dragón"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Ladrón",
+          "PP": 25,
+          "type": "Siniestro"
         },
         {
-          "moveName": "Terremoto",
+          "moveName": "Pulpocañón",
           "PP": 10,
-          "type": "Hada"
+          "type": "Agua"
         }
       ]
     },
     {
-      "pokemonName": "MEWTWO",
-      "pokemonIndex": 27,
+      "pokemonName": "ETE SECH",
+      "pokemonIndex": 220,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Hidrocañón",
+          "moveName": "Cola veneno",
+          "PP": 25,
+          "type": "Veneno"
+        },
+        {
+          "moveName": "Onda ígnea",
+          "PP": 10,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Ala de Acero",
+          "PP": 25,
+          "type": "Acero"
+        },
+        {
+          "moveName": "Poder Pasado",
           "PP": 5,
-          "type": "Agua"
+          "type": "Roca"
+        }
+      ]
+    },
+    {
+      "pokemonName": "PERUANO",
+      "pokemonIndex": 17,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Beso amoroso",
+          "PP": 10,
+          "type": "Normal"
         },
         {
-          "moveName": "Psicoataque",
+          "moveName": "Golpe Cabeza",
+          "PP": 15,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Repetición",
+          "PP": 20,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Mov. Espejo",
+          "PP": 20,
+          "type": "Volador"
+        }
+      ]
+    },
+    {
+      "pokemonName": "MAYICHI",
+      "pokemonIndex": 241,
+      "pokemonHability": "Mar Llamas",
+      "pokemonMoves": [
+        {
+          "moveName": "Finta",
+          "PP": 20,
+          "type": "Siniestro"
+        },
+        {
+          "moveName": "Viento Hielo",
+          "PP": 15,
+          "type": "Hielo"
+        },
+        {
+          "moveName": "Onda Trueno",
+          "PP": 20,
+          "type": "Eléctrico"
+        },
+        {
+          "moveName": "Planta Feroz",
           "PP": 5,
-          "type": "Psíquico"
-        },
-        {
-          "moveName": "Disp. Lodo",
-          "PP": 15,
-          "type": "Tierra"
-        },
-        {
-          "moveName": "Espora",
-          "PP": 15,
           "type": "Planta"
         }
       ]
     },
     {
-      "pokemonName": "XIN ZHAO",
-      "pokemonIndex": 155,
+      "pokemonName": "DISCOVERY",
+      "pokemonIndex": 23,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Psíquico",
-          "PP": 10,
-          "type": "Psíquico"
+          "moveName": "Mordisco",
+          "PP": 25,
+          "type": "Siniestro"
         },
         {
-          "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
+          "moveName": "Sofoco",
+          "PP": 5,
+          "type": "Fuego"
         },
         {
-          "moveName": "Magnitud",
-          "PP": 30,
-          "type": "Tierra"
+          "moveName": "Llanto falso",
+          "PP": 20,
+          "type": "Siniestro"
         },
         {
-          "moveName": "Bomba Huevo",
+          "moveName": "Garra Brutal",
           "PP": 10,
           "type": "Normal"
         }
       ]
     },
     {
-      "pokemonName": "DORAEMON",
-      "pokemonIndex": 183,
+      "pokemonName": "JALMII",
+      "pokemonIndex": 207,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Huesomerang",
+          "moveName": "Onda ígnea",
           "PP": 10,
-          "type": "Tierra"
+          "type": "Fuego"
         },
         {
-          "moveName": "Gancho Alto",
-          "PP": 15,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Excavar",
+          "moveName": "Venganza",
           "PP": 10,
-          "type": "Tierra"
+          "type": "Normal"
         },
-        {
-          "moveName": "Bola Sombra",
-          "PP": 15,
-          "type": "Fantasma"
-        }
-      ]
-    },
-    {
-      "pokemonName": "MAKELELE",
-      "pokemonIndex": 187,
-      "pokemonHability": "Mar Llamas",
-      "pokemonMoves": [
-        {
-          "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Megapuño",
-          "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Ataque arena",
-          "PP": 15,
-          "type": "Tierra"
-        },
-        {
-          "moveName": "Polución",
-          "PP": 15,
-          "type": "Veneno"
-        }
-      ]
-    },
-    {
-      "pokemonName": "MAMAWEVASO",
-      "pokemonIndex": 32,
-      "pokemonHability": "Mar Llamas",
-      "pokemonMoves": [
         {
           "moveName": "Bote",
           "PP": 5,
           "type": "Volador"
         },
         {
-          "moveName": "Paz Mental",
+          "moveName": "Puño Mareo",
           "PP": 10,
-          "type": "Psíquico"
-        },
-        {
-          "moveName": "Hoja aguda",
-          "PP": 15,
-          "type": "Planta"
+          "type": "Normal"
         }
       ]
     }
