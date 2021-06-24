@@ -65,28 +65,28 @@
     },
     {
       "pokemonName": "Margarita",
-      "pokemonIndex": 69,
+      "pokemonIndex": 70,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Psíquico",
-          "PP": 10,
-          "type": "Psíquico"
+          "moveName": "Llamarada",
+          "PP": 5,
+          "type": "Fuego"
         },
         {
-          "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Magnitud",
+          "moveName": "Corte",
           "PP": 30,
-          "type": "Tierra"
+          "type": "Normal"
         },
         {
-          "moveName": "Bomba Huevo",
-          "PP": 10,
+          "moveName": "Falsotortazo",
+          "PP": 40,
           "type": "Normal"
+        },
+        {
+          "moveName": "Gancho Alto",
+          "PP": 15,
+          "type": "Lucha"
         }
       ]
     },
@@ -96,24 +96,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Huesomerang",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Megapuño",
+          "PP": 20,
+          "type": "Normal"
         },
         {
-          "moveName": "Gancho Alto",
-          "PP": 15,
+          "moveName": "Puñodinámico",
+          "PP": 5,
           "type": "Lucha"
         },
         {
-          "moveName": "Excavar",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Megapatada",
+          "PP": 5,
+          "type": "Normal"
         },
         {
-          "moveName": "Bola Sombra",
-          "PP": 15,
-          "type": "Fantasma"
+          "moveName": "Telépata",
+          "PP": 5,
+          "type": "Normal"
         }
       ]
     },
@@ -150,19 +150,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Bote",
-          "PP": 5,
-          "type": "Volador"
-        },
-        {
-          "moveName": "Paz Mental",
-          "PP": 10,
-          "type": "Psíquico"
-        },
-        {
-          "moveName": "Hoja aguda",
+          "moveName": "Silbato",
           "PP": 15,
           "type": "Planta"
+        },
+        {
+          "moveName": "Hidropulso",
+          "PP": 20,
+          "type": "Agua"
+        },
+        {
+          "moveName": "Ultrapuño",
+          "PP": 30,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Come sueños",
+          "PP": 15,
+          "type": "Psíquico"
         }
       ]
     }
