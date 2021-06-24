@@ -15,24 +15,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Empujón",
+          "PP": 20,
+          "type": "Lucha"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Cola Férrea",
+          "PP": 15,
+          "type": "Acero"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Ácido",
+          "PP": 30,
+          "type": "Veneno"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Picotazo",
+          "PP": 35,
+          "type": "Volador"
         }
       ]
     },
@@ -42,24 +42,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Hidrocañón",
+          "moveName": "Luz Lunar",
           "PP": 5,
-          "type": "Agua"
+          "type": "Normal"
+        },
+        {
+          "moveName": "Placaje Eléctrico",
+          "PP": 15,
+          "type": "Eléctrico"
+        },
+        {
+          "moveName": "Hoja Aguda",
+          "PP": 15,
+          "type": "Planta"
         },
         {
           "moveName": "Psicoataque",
           "PP": 5,
           "type": "Psíquico"
-        },
-        {
-          "moveName": "Disp. Lodo",
-          "PP": 15,
-          "type": "Tierra"
-        },
-        {
-          "moveName": "Espora",
-          "PP": 15,
-          "type": "Planta"
         }
       ]
     },
@@ -69,23 +69,23 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Psíquico",
+          "moveName": "Patada Ígnea",
           "PP": 10,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Hoja Afilada",
+          "PP": 25,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Manto Espejo",
+          "PP": 20,
           "type": "Psíquico"
         },
         {
-          "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Magnitud",
-          "PP": 30,
-          "type": "Tierra"
-        },
-        {
-          "moveName": "Bomba Huevo",
-          "PP": 10,
+          "moveName": "Reducción",
+          "PP": 20,
           "type": "Normal"
         }
       ]
@@ -96,24 +96,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Huesomerang",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Psicorrayo",
+          "PP": 20,
+          "type": "Psíquico"
         },
         {
-          "moveName": "Gancho Alto",
-          "PP": 15,
-          "type": "Lucha"
+          "moveName": "Armad. Ácida",
+          "PP": 20,
+          "type": "Veneno"
         },
         {
-          "moveName": "Excavar",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Rayo Aurora",
+          "PP": 20,
+          "type": "Hielo"
         },
         {
-          "moveName": "Bola Sombra",
-          "PP": 15,
-          "type": "Fantasma"
+          "moveName": "Rueda Fuego",
+          "PP": 25,
+          "type": "Fuego"
         }
       ]
     },
@@ -123,24 +123,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
+          "moveName": "Corte",
+          "PP": 30,
+          "type": "Normal"
         },
         {
-          "moveName": "Megapuño",
-          "PP": 10,
-          "type": "Lucha"
+          "moveName": "Poder Pasado",
+          "PP": 5,
+          "type": "Roca"
         },
         {
-          "moveName": "Ataque arena",
+          "moveName": "Psicoataque",
+          "PP": 5,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Disp. Lodo",
           "PP": 15,
           "type": "Tierra"
-        },
-        {
-          "moveName": "Polución",
-          "PP": 15,
-          "type": "Veneno"
         }
       ]
     },
@@ -150,19 +150,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Bote",
-          "PP": 5,
-          "type": "Volador"
+          "moveName": "Mov. Sísmico",
+          "PP": 20,
+          "type": "Lucha"
         },
         {
-          "moveName": "Paz Mental",
-          "PP": 10,
+          "moveName": "Hidropulso",
+          "PP": 20,
+          "type": "Agua"
+        },
+        {
+          "moveName": "Paranormal",
+          "PP": 20,
           "type": "Psíquico"
         },
         {
-          "moveName": "Hoja aguda",
-          "PP": 15,
-          "type": "Planta"
+          "moveName": "Polvo Veneno",
+          "PP": 35,
+          "type": "Veneno"
         }
       ]
     }
