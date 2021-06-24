@@ -75,8 +75,8 @@
         },
         {
           "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
+          "PP": 5,
+          "type": "Normal"
         },
         {
           "moveName": "Magnitud",
@@ -124,13 +124,13 @@
       "pokemonMoves": [
         {
           "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
+          "PP": 5,
+          "type": "Normal"
         },
         {
           "moveName": "Megapuño",
-          "PP": 10,
-          "type": "Lucha"
+          "PP": 20,
+          "type": "Normal"
         },
         {
           "moveName": "Ataque arena",

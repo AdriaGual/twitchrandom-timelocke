@@ -10,29 +10,29 @@
   "lifes": 18,
   "team": [
     {
-      "pokemonName": "Spidi",
+      "pokemonName": "Espidi",
       "pokemonIndex": 167,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Tornado",
+          "PP": 35,
+          "type": "Volador"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Hidrocañon",
+          "PP": 5,
+          "type": "Agua"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Placaje",
+          "PP": 40,
+          "type": "Normal"
         },
         {
-          "moveName": "Terremoto",
+          "moveName": "Triataque",
           "PP": 10,
-          "type": "Hada"
+          "type": "Normal"
         }
       ]
     },
@@ -65,7 +65,7 @@
     },
     {
       "pokemonName": "Algodon",
-      "pokemonIndex": 179,
+      "pokemonIndex": 180,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
@@ -75,8 +75,8 @@
         },
         {
           "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
+          "PP": 5,
+          "type": "Normal"
         },
         {
           "moveName": "Magnitud",
@@ -91,29 +91,29 @@
       ]
     },
     {
-      "pokemonName": "Masoca",
-      "pokemonIndex": 183,
+      "pokemonName": "Babitas",
+      "pokemonIndex": 217,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Huesomerang",
+          "moveName": "Pulpocañón",
           "PP": 10,
-          "type": "Tierra"
+          "type": "Agua"
         },
         {
-          "moveName": "Gancho Alto",
+          "moveName": "Placaje Eléctrico",
           "PP": 15,
-          "type": "Lucha"
+          "type": "Eléctrico"
         },
         {
-          "moveName": "Excavar",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Ascuas",
+          "PP": 25,
+          "type": "Fuego"
         },
         {
-          "moveName": "Bola Sombra",
-          "PP": 15,
-          "type": "Fantasma"
+          "moveName": "Bola Hielo",
+          "PP": 20,
+          "type": "Hielo"
         }
       ]
     },
@@ -124,45 +124,50 @@
       "pokemonMoves": [
         {
           "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
+          "PP": 5,
+          "type": "Normal"
         },
         {
-          "moveName": "Megapuño",
-          "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Ataque arena",
+          "moveName": "Golpe Cabeza",
           "PP": 15,
-          "type": "Tierra"
+          "type": "Normal"
         },
         {
           "moveName": "Polución",
-          "PP": 15,
+          "PP": 20,
           "type": "Veneno"
+        },
+        {
+          "moveName": "Corte",
+          "PP": 30,
+          "type": "Normal"
         }
       ]
     },
     {
-      "pokemonName": "Chorizar",
-      "pokemonIndex": 4,
+      "pokemonName": "Toto",
+      "pokemonIndex": 44,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Bote",
+          "moveName": "Bola Hielo",
+          "PP": 30,
+          "type": "Hielo"
+        },
+        {
+          "moveName": "Bomba Huevo",
+          "PP": 20,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Megapatada",
           "PP": 5,
-          "type": "Volador"
+          "type": "Normal"
         },
         {
-          "moveName": "Paz Mental",
+          "moveName": "Agua Lodosa",
           "PP": 10,
-          "type": "Psíquico"
-        },
-        {
-          "moveName": "Hoja aguda",
-          "PP": 15,
-          "type": "Planta"
+          "type": "Agua"
         }
       ]
     }
