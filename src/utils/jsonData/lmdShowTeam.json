@@ -6,99 +6,99 @@
   "coachName": "Knekro",
   "coachTwitch": "https://www.twitch.tv/knekro",
   "coachImageUrl": "https://www.mejorinfluencer.com/wp-content/uploads/2019/07/Knekro-stramer-y-youtuber.png",
-  "badges": 3,
-  "lifes": 18,
+  "badges": 6,
+  "lifes": 12,
   "team": [
     {
-      "pokemonName": "LORITO FDZ",
-      "pokemonIndex": 21,
+      "pokemonName": "ISMAEL",
+      "pokemonIndex": 231,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Finta",
+          "PP": 20,
+          "type": "Siniestro"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Danza Espada",
+          "PP": 20,
+          "type": "Normal"
         },
         {
-          "moveName": "Terremoto",
+          "moveName": "Vozarrón",
           "PP": 10,
-          "type": "Hada"
+          "type": "Normal"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Puñodinámico",
+          "PP": 5,
+          "type": "Lucha"
         }
       ]
     },
     {
-      "pokemonName": "ORSLOK",
-      "pokemonIndex": 19,
+      "pokemonName": "SUSANA",
+      "pokemonIndex": 180,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Hidrocañón",
-          "PP": 5,
+          "moveName": "Hoja Aguda",
+          "PP": 15,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Martillazo",
+          "PP": 10,
           "type": "Agua"
         },
         {
-          "moveName": "Psicoataque",
-          "PP": 5,
-          "type": "Psíquico"
+          "moveName": "Batido",
+          "PP": 10,
+          "type": "Normal"
         },
         {
-          "moveName": "Disp. Lodo",
-          "PP": 15,
-          "type": "Tierra"
-        },
-        {
-          "moveName": "Espora",
-          "PP": 15,
-          "type": "Planta"
+          "moveName": "Destello",
+          "PP": 20,
+          "type": "Normal"
         }
       ]
     },
     {
-      "pokemonName": "MIGUEL BOSÉ",
-      "pokemonIndex": 163,
+      "pokemonName": "GENSHIN",
+      "pokemonIndex": 93,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Psíquico",
+          "moveName": "Terremoto",
           "PP": 10,
-          "type": "Psíquico"
-        },
-        {
-          "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Magnitud",
-          "PP": 30,
           "type": "Tierra"
         },
         {
-          "moveName": "Bomba Huevo",
+          "moveName": "Hoja Aguda",
+          "PP": 15,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Colmillo Veneno",
+          "PP": 15,
+          "type": "Veneno"
+        },
+        {
+          "moveName": "Beso amoroso",
           "PP": 10,
           "type": "Normal"
         }
       ]
     },
     {
-      "pokemonName": "POCHO",
-      "pokemonIndex": 24,
+      "pokemonName": "SUBNORMAL",
+      "pokemonIndex": 70,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Huesomerang",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Imagen",
+          "PP": 20,
+          "type": "Normal"
         },
         {
           "moveName": "Gancho Alto",
@@ -106,41 +106,41 @@
           "type": "Lucha"
         },
         {
-          "moveName": "Excavar",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Ultrapuño",
+          "PP": 30,
+          "type": "Lucha"
         },
         {
-          "moveName": "Bola Sombra",
-          "PP": 15,
-          "type": "Fantasma"
+          "moveName": "Puñodinámico",
+          "PP": 5,
+          "type": "Lucha"
         }
       ]
     },
     {
-      "pokemonName": "SEKIAM",
-      "pokemonIndex": 187,
+      "pokemonName": "MANOLIN",
+      "pokemonIndex": 8,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Megapatada",
+          "moveName": "Imagen",
+          "PP": 20,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Enfado",
           "PP": 10,
-          "type": "Lucha"
+          "type": "Dragón"
         },
         {
-          "moveName": "Megapuño",
+          "moveName": "Tóxico",
           "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Ataque arena",
-          "PP": 15,
-          "type": "Tierra"
-        },
-        {
-          "moveName": "Polución",
-          "PP": 15,
           "type": "Veneno"
+        },
+        {
+          "moveName": "Puñodinámico",
+          "PP": 5,
+          "type": "Lucha"
         }
       ]
     },
@@ -150,19 +150,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Bote",
+          "moveName": "Fuegosagrado",
           "PP": 5,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Vuelo",
+          "PP": 15,
           "type": "Volador"
         },
         {
-          "moveName": "Paz Mental",
-          "PP": 10,
-          "type": "Psíquico"
+          "moveName": "Danza Dragón",
+          "PP": 20,
+          "type": "Dragón"
         },
         {
-          "moveName": "Hoja aguda",
-          "PP": 15,
-          "type": "Planta"
+          "moveName": "Hiperrayo",
+          "PP": 5,
+          "type": "Normal"
         }
       ]
     }
