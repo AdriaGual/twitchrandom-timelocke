@@ -6,33 +6,33 @@
   "coachName": "Sliverrk",
   "coachTwitch": "https://www.twitch.tv/sliverrk",
   "coachImageUrl": "https://pbs.twimg.com/profile_images/1168845831639842816/79CXpQ95_400x400.jpg",
-  "badges": 0,
-  "lifes": 20,
+  "badges": 2,
+  "lifes": 16,
   "team": [
     {
-      "pokemonName": "QUINOA",
-      "pokemonIndex": 186,
+      "pokemonName": "BIGMAC",
+      "pokemonIndex": 194,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Terremoto",
+          "moveName": "Meteorobola",
           "PP": 10,
-          "type": "Tierra"
+          "type": "Normal"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Lanzarrocas",
+          "PP": 15,
+          "type": "Roca"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Fuegosagrado",
+          "PP": 5,
+          "type": "Fuego"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Viento Plata",
+          "PP": 5,
+          "type": "Bicho"
         }
       ]
     },
@@ -42,68 +42,68 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Hidrocañón",
-          "PP": 5,
-          "type": "Agua"
-        },
-        {
-          "moveName": "Psicoataque",
-          "PP": 5,
+          "moveName": "Amnesia",
+          "PP": 20,
           "type": "Psíquico"
         },
         {
-          "moveName": "Disp. Lodo",
-          "PP": 15,
-          "type": "Tierra"
+          "moveName": "Planta Feroz",
+          "PP": 5,
+          "type": "Planta"
         },
         {
-          "moveName": "Espora",
+          "moveName": "Cornada",
+          "PP": 25,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Doble Equipo",
           "PP": 15,
-          "type": "Planta"
+          "type": "Normal"
         }
       ]
     },
     {
-      "pokemonName": "JORDI CRUZ",
-      "pokemonIndex": 234,
+      "pokemonName": "CHISCU",
+      "pokemonIndex": 24,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Psíquico",
-          "PP": 10,
-          "type": "Psíquico"
-        },
-        {
-          "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Magnitud",
-          "PP": 30,
+          "moveName": "Fisura",
+          "PP": 5,
           "type": "Tierra"
         },
         {
-          "moveName": "Bomba Huevo",
-          "PP": 10,
+          "moveName": "Vel. Extrema",
+          "PP": 5,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Ataque Aéreo",
+          "PP": 5,
+          "type": "Volador"
+        },
+        {
+          "moveName": "Cornada",
+          "PP": 25,
           "type": "Normal"
         }
       ]
     },
     {
       "pokemonName": "ALYSSA",
-      "pokemonIndex": 22,
+      "pokemonIndex": 23,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Huesomerang",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Dragoaliento",
+          "PP": 20,
+          "type": "Dragón"
         },
         {
-          "moveName": "Gancho Alto",
-          "PP": 15,
-          "type": "Lucha"
+          "moveName": "Pisotón",
+          "PP": 20,
+          "type": "Normal"
         },
         {
           "moveName": "Excavar",
@@ -111,57 +111,62 @@
           "type": "Tierra"
         },
         {
-          "moveName": "Bola Sombra",
-          "PP": 15,
-          "type": "Fantasma"
+          "moveName": "Restricción",
+          "PP": 35,
+          "type": "Normal"
         }
       ]
     },
     {
-      "pokemonName": "C. TANGANA",
-      "pokemonIndex": 38,
+      "pokemonName": "JACKSPIROW",
+      "pokemonIndex": 21,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Megapatada",
-          "PP": 10,
+          "moveName": "Cornada",
+          "PP": 25,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Fuerza Bruta",
+          "PP": 5,
           "type": "Lucha"
         },
         {
-          "moveName": "Megapuño",
+          "moveName": "Viento Hielo",
+          "PP": 15,
+          "type": "Hielo"
+        },
+        {
+          "moveName": "Superdiente",
           "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Ataque arena",
-          "PP": 15,
-          "type": "Tierra"
-        },
-        {
-          "moveName": "Polución",
-          "PP": 15,
-          "type": "Veneno"
+          "type": "Normal"
         }
       ]
     },
     {
       "pokemonName": "CUCU",
-      "pokemonIndex": 162,
+      "pokemonIndex": 163,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Bote",
-          "PP": 5,
-          "type": "Volador"
-        },
-        {
-          "moveName": "Paz Mental",
-          "PP": 10,
+          "moveName": "Confusión",
+          "PP": 25,
           "type": "Psíquico"
         },
         {
-          "moveName": "Hoja aguda",
+          "moveName": "Ventisca",
+          "PP": 5,
+          "type": "Hielo"
+        },
+        {
+          "moveName": "Patada Giro",
           "PP": 15,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Planta Feroz",
+          "PP": 5,
           "type": "Planta"
         }
       ]
