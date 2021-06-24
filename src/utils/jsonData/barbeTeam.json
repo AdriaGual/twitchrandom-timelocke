@@ -6,7 +6,7 @@
   "coachName": "Eric Lostie",
   "coachTwitch": "https://www.twitch.tv/ericlostie",
   "coachImageUrl": "https://pbs.twimg.com/profile_images/1399746803101224965/fRqD7raa_400x400.jpg",
-  "badges": 6,
+  "badges": 7,
   "lifes": 16,
   "team": [
     {
@@ -15,51 +15,51 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Armad. Ácida",
+          "PP": 20,
+          "type": "Veneno"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Surf",
+          "PP": 15,
+          "type": "Agua"
         },
         {
-          "moveName": "Terremoto",
-          "PP": 10,
-          "type": "Hada"
+          "moveName": "Síntesis",
+          "PP": 5,
+          "type": "Planta"
         },
         {
-          "moveName": "Terremoto",
+          "moveName": "Tóxico",
           "PP": 10,
-          "type": "Hada"
+          "type": "Veneno"
         }
       ]
     },
     {
-      "pokemonName": "CUMDABUELO",
-      "pokemonIndex": 88,
+      "pokemonName": "IBAISITO",
+      "pokemonIndex": 8,
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Hidrocañón",
-          "PP": 5,
+          "moveName": "Surf",
+          "PP": 15,
           "type": "Agua"
         },
         {
-          "moveName": "Psicoataque",
+          "moveName": "Estallido",
           "PP": 5,
-          "type": "Psíquico"
+          "type": "Fuego"
         },
         {
-          "moveName": "Disp. Lodo",
+          "moveName": "Puño Cometa",
           "PP": 15,
-          "type": "Tierra"
+          "type": "Normal"
         },
         {
-          "moveName": "Espora",
-          "PP": 15,
-          "type": "Planta"
+          "moveName": "Anillo Ígneo",
+          "PP": 5,
+          "type": "Fuego"
         }
       ]
     },
@@ -69,24 +69,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Psíquico",
-          "PP": 10,
-          "type": "Psíquico"
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
         },
         {
-          "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Magnitud",
-          "PP": 30,
-          "type": "Tierra"
-        },
-        {
-          "moveName": "Bomba Huevo",
+          "moveName": "Sustituto",
           "PP": 10,
           "type": "Normal"
+        },
+        {
+          "moveName": "Pistola Agua",
+          "PP": 25,
+          "type": "Agua"
+        },
+        {
+          "moveName": "Fuegosagrado",
+          "PP": 5,
+          "type": "Fuego"
         }
       ]
     },
@@ -96,24 +96,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Huesomerang",
-          "PP": 10,
-          "type": "Tierra"
+          "moveName": "Fuegosagrado",
+          "PP": 5,
+          "type": "Fuego"
         },
         {
-          "moveName": "Gancho Alto",
+          "moveName": "Vuelo",
           "PP": 15,
-          "type": "Lucha"
+          "type": "Volador"
         },
         {
-          "moveName": "Excavar",
+          "moveName": "Puño Meteoro",
           "PP": 10,
-          "type": "Tierra"
+          "type": "Acero"
         },
         {
-          "moveName": "Bola Sombra",
-          "PP": 15,
-          "type": "Fantasma"
+          "moveName": "Megapuño",
+          "PP": 20,
+          "type": "Normal"
         }
       ]
     },
@@ -123,24 +123,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Megapatada",
-          "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Megapuño",
-          "PP": 10,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Ataque arena",
+          "moveName": "Doble Rayo",
           "PP": 15,
-          "type": "Tierra"
+          "type": "Bicho"
         },
         {
-          "moveName": "Polución",
-          "PP": 15,
+          "moveName": "Cola Veneno",
+          "PP": 25,
           "type": "Veneno"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        },
+        {
+          "moveName": "Surf",
+          "PP": 15,
+          "type": "Agua"
         }
       ]
     },
@@ -150,19 +150,24 @@
       "pokemonHability": "Mar Llamas",
       "pokemonMoves": [
         {
-          "moveName": "Bote",
+          "moveName": "Megapatada",
           "PP": 5,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Pico Taladro",
+          "PP": 20,
           "type": "Volador"
         },
         {
-          "moveName": "Paz Mental",
-          "PP": 10,
-          "type": "Psíquico"
+          "moveName": "Rayo Burbuja",
+          "PP": 20,
+          "type": "Agua"
         },
         {
-          "moveName": "Hoja aguda",
-          "PP": 15,
-          "type": "Planta"
+          "moveName": "Amortiguador",
+          "PP": 10,
+          "type": "Normal"
         }
       ]
     }
