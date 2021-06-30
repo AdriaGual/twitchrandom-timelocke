@@ -1,6 +1,5 @@
 import React from "react";
 import topRight from "../../assets/images/topright.png";
-import Card from "../Card/Card";
 import Footer from "../../components/Footer/Footer";
 
 function Novedades() {
