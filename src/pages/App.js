@@ -1,4 +1,5 @@
 import TopBar from "../components/TopBar/TopBar";
+import TopCut from "../components/TopCut/TopCut";
 import Main from "../components/Main/Main";
 import { Helmet } from "react-helmet";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
@@ -17,10 +18,23 @@ function App() {
                 name="description"
                 content="Todos los equipos del Pokerandom Tournament 2021."
               />
-              <link rel="canonical" href="http://twitchcup.ga" />
+              <link rel="canonical" href="http://pokerandomTournament.ga" />
             </Helmet>
             <TopBar></TopBar>
             <Main></Main>
+          </Route>
+          <Route exact path="/topCut">
+            <Helmet>
+              <meta charSet="utf-8" />
+              <title>PokeRandom Tournament</title>
+              <meta
+                name="description"
+                content="Todos los equipos del Pokerandom Tournament 2021."
+              />
+              <link rel="canonical" href="http://pokerandomTournament.ga" />
+            </Helmet>
+            <TopBar></TopBar>
+            <TopCut></TopCut>
           </Route>
         </Switch>
       </Analytics>

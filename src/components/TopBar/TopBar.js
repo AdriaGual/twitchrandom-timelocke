@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "../../assets/images/logo.png";
 import Moment from "react-moment";
+import { Link } from "react-router-dom";
 
 function TopBar() {
   return (
@@ -20,9 +21,12 @@ function TopBar() {
             />
             <div className=" flex-grow"></div>
             <div className="flex gap-4">
-              <p className="text-white">Inicio</p>
-              <p className="text-white">Clips</p>
-              <p className="text-white">Top Cut</p>
+              <Link to="/" className="text-white">
+                Inicio
+              </Link>
+              <Link to="/topCut" className="text-white">
+                Top Cut
+              </Link>
             </div>
           </div>
           <div></div>
