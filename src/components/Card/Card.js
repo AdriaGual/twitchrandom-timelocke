@@ -7,7 +7,7 @@ import Lifes from "./Lifes/Lifes";
 function Card(props) {
   return (
     <div class="w-full border-4 rounded border-purple bg-white my-4 py-6">
-      <div class="grid grid-cols-5 px-8 lg:px-20">
+      <div class="grid grid-cols-5 px-2 md:px-8 lg:px-20">
         <div class="col-span-2">
           <Profile
             isPlayer={true}
@@ -35,13 +35,14 @@ function Card(props) {
                   pokemonIndex={data.pokemonIndex}
                   pokemonMoves={data.pokemonMoves}
                   pokemonHability={data.pokemonHability}
+                  pokemonDescription={data.pokemonDescription}
                 ></Pokemon>
               );
             })}
           </div>
         </div>
       </div>
-      <div class="grid grid-cols-5 px-8 lg:px-20 pt-8">
+      <div class="grid grid-cols-5 px-2 md:px-8 lg:px-20 pt-8">
         <div class="col-span-2">
           <Badges badges={props.data.badges}></Badges>
         </div>

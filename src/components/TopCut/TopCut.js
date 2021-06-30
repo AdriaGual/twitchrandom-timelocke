@@ -16,10 +16,7 @@ function TopCut() {
         {
           id: 2,
           date: "Miércoles, 14 de Julio",
-          teams: [
-            { name: "Comandante Shepard" },
-            { name: "AquiNoEstaPattTeam" },
-          ],
+          teams: [{ name: "Comandante Shepard" }, { name: "AquiNoEstaPatt" }],
         },
         {
           id: 3,

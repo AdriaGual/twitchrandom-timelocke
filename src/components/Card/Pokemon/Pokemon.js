@@ -49,22 +49,23 @@ function Pokemon(props) {
         style={customStyles}
         contentLabel={getPokemon(props.pokemonIndex)}
       >
-        <div class="grid grid-cols-4 px-20">
-          <div>
+        <div class="grid grid-cols-4">
+          <div className="col-span-2">
             <img
               src={getPokemon(props.pokemonIndex)}
               className="mx-auto h-24"
               alt={getPokemon(props.pokemonIndex)}
             ></img>
-
             <p className="pt-4 font-semibold text-lg text-center">
-              {props.pokemonName}
+              {props.pokemonName + " #" + (props.pokemonIndex + 1)}
+            </p>{" "}
+            <p className="">
+              <span className="pt-4 font-semibold">Habilidad: </span>
+              {props.pokemonHability}
             </p>
-            {
-              //<p className="">Habilidad: {props.pokemonHability}</p>
-            }
+            <p>{props.pokemonDescription}</p>
           </div>
-          <div> </div>
+
           <div className="col-span-2">
             {props.pokemonMoves.map((data, index) => {
               return <Move data={data}></Move>;

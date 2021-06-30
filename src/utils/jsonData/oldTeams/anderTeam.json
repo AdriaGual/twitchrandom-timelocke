@@ -13,6 +13,7 @@
       "pokemonName": "BIGMAC",
       "pokemonIndex": 194,
       "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Es de naturaleza tranquila. Permanece impasible cuando, al nadar, choca de cabeza contra rocas de río o el casco de los barcos.",
       "pokemonMoves": [
         {
           "moveName": "Meteorobola",
