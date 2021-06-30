@@ -11,9 +11,9 @@ function Lifes(props) {
       <div class="grid grid-cols-4 lg:grid-cols-6 xl:grid-cols-10 gap-4 mt-2">
         {lifes.map((data, index) => {
           return data < props.lifes ? (
-            <img src={heart_on} alt={heart_on} className="h-7"></img>
+            <img src={heart_on} alt={heart_on} className="h-8"></img>
           ) : (
-            <img src={heart_off} alt={heart_off} className="h-7"></img>
+            <img src={heart_off} alt={heart_off} className="h-8"></img>
           );
         })}
       </div>
