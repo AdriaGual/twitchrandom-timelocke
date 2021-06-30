@@ -1,25 +1,13 @@
-import React, { useEffect } from "react";
+import React from "react";
 import Profile from "./Profile/Profile";
 import Badges from "./Badges/Badges";
 import Pokemon from "./Pokemon/Pokemon";
 import Lifes from "./Lifes/Lifes";
 
 function Card(props) {
-  useEffect(() => {
-    for (let a = 1; a < 251; a++) {
-      if (a < 10) {
-        console.log("s00" + a + ",");
-      } else if (a >= 10 && a < 100) {
-        console.log("s0" + a + ",");
-      } else {
-        console.log("s" + a + ",");
-      }
-    }
-  }, []);
-
   return (
     <div class="w-full border-4 rounded border-purple bg-white my-4 py-6">
-      <div class="grid grid-cols-5 px-20">
+      <div class="grid grid-cols-5 px-8 lg:px-20">
         <div class="col-span-2">
           <Profile
             isPlayer={true}
@@ -53,7 +41,7 @@ function Card(props) {
           </div>
         </div>
       </div>
-      <div class="grid grid-cols-5 px-20">
+      <div class="grid grid-cols-5 px-8 lg:px-20 pt-8">
         <div class="col-span-2">
           <Badges badges={props.data.badges}></Badges>
         </div>

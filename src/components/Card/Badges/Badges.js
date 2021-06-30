@@ -33,20 +33,12 @@ function Badges(props) {
   return (
     <div>
       <p className="font-semibold text-lg">MEDALLAS</p>
-      <div class="grid grid-cols-4 gap-4 w-44 mt-2">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-2 md:gap-4 md:w-1/2 mt-2">
         {badges.map((data, index) => {
           return data < props.badges ? (
-            <img
-              src={earnedBadges[data]}
-              alt={index}
-              className="h-8 mx-auto"
-            ></img>
+            <img src={earnedBadges[data]} alt={index} className="h-8"></img>
           ) : (
-            <img
-              src={remainingBadges[data]}
-              alt={index}
-              className="h-8 mx-auto"
-            ></img>
+            <img src={remainingBadges[data]} alt={index} className="h-8"></img>
           );
         })}
       </div>

@@ -12,10 +12,10 @@ function App() {
           <Route exact path="/">
             <Helmet>
               <meta charSet="utf-8" />
-              <title>Twitch Cup</title>
+              <title>PokeRandom Tournament</title>
               <meta
                 name="description"
-                content="Todos los equipos de la Twitch Cup 2021."
+                content="Todos los equipos del Pokerandom Tournament 2021."
               />
               <link rel="canonical" href="http://twitchcup.ga" />
             </Helmet>

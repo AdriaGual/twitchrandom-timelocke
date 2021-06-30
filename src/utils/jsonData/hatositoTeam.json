@@ -1,0 +1,12 @@
+{
+  "playerName": "Hatosito",
+  "playerTwitch": "https://www.twitch.tv/hatosito",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1361133316812996610/ksnhBgEx_400x400.jpg",
+  "hasCoach": false,
+  "coachName": "",
+  "coachTwitch": "",
+  "coachImageUrl": "",
+  "badges": 0,
+  "lifes": 15,
+  "team": []
+}

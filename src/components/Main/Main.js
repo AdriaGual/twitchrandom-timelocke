@@ -2,41 +2,41 @@ import React from "react";
 import topRight from "../../assets/images/topright.png";
 import Card from "../Card/Card";
 import Footer from "../../components/Footer/Footer";
-import cristininiTeam from "../../utils/jsonData/cristininiTeam.json";
-import anderTeam from "../../utils/jsonData/anderTeam.json";
-import barbeTeam from "../../utils/jsonData/barbeTeam.json";
-import chusoTeam from "../../utils/jsonData/chusoTeam.json";
-import elXokasTeam from "../../utils/jsonData/elXokasTeam.json";
-import felipezTeam from "../../utils/jsonData/felipezTeam.json";
-import folagorTeam from "../../utils/jsonData/folagorTeam.json";
-import ibaiTeam from "../../utils/jsonData/ibaiTeam.json";
-import lmdShowTeam from "../../utils/jsonData/lmdShowTeam.json";
-import maximusTeam from "../../utils/jsonData/maximusTeam.json";
-import mayichiTeam from "../../utils/jsonData/mayichiTeam.json";
-import merySoldierTeam from "../../utils/jsonData/merySoldierTeam.json";
-import revenTeam from "../../utils/jsonData/revenTeam.json";
-import richMCTeam from "../../utils/jsonData/richMCTeam.json";
-import silithurTeam from "../../utils/jsonData/silithurTeam.json";
-import werlybTeam from "../../utils/jsonData/werlybTeam.json";
+import sharknessTeam from "../../utils/jsonData/sharknessTeam.json";
+import anuhiuTeam from "../../utils/jsonData/anuhiuTeam.json";
+import arocetTeam from "../../utils/jsonData/arocetTeam.json";
+import comandanteShepardTeam from "../../utils/jsonData/comandanteShepardTeam.json";
+import streamfranTeam from "../../utils/jsonData/streamfranTeam.json";
+import hatositoTeam from "../../utils/jsonData/hatositoTeam.json";
+import moonxwisherTeam from "../../utils/jsonData/moonxwisherTeam.json";
+import kiarafeyTeam from "../../utils/jsonData/kiarafeyTeam.json";
+import piponoLauraTeam from "../../utils/jsonData/piponoLauraTeam.json";
+import matyCyndaPokeTeam from "../../utils/jsonData/matyCyndaPokeTeam.json";
+import mikuchinatsuTeam from "../../utils/jsonData/mikuchinatsuTeam.json";
+import lisRudyTeam from "../../utils/jsonData/lisRudyTeam.json";
+import aquiNoEstaPattTeam from "../../utils/jsonData/aquiNoEstaPattTeam.json";
+import yastMeTeam from "../../utils/jsonData/yastMeTeam.json";
+import zetaemeTeam from "../../utils/jsonData/zetaemeTeam.json";
+import zigredBTeam from "../../utils/jsonData/zigredBTeam.json";
 
 function Main() {
   const streamerTeams = [
-    cristininiTeam,
-    anderTeam,
-    barbeTeam,
-    chusoTeam,
-    elXokasTeam,
-    felipezTeam,
-    ibaiTeam,
-    lmdShowTeam,
-    maximusTeam,
-    mayichiTeam,
-    merySoldierTeam,
-    revenTeam,
-    richMCTeam,
-    silithurTeam,
-    werlybTeam,
-    folagorTeam,
+    sharknessTeam,
+    anuhiuTeam,
+    arocetTeam,
+    comandanteShepardTeam,
+    streamfranTeam,
+    hatositoTeam,
+    moonxwisherTeam,
+    kiarafeyTeam,
+    piponoLauraTeam,
+    matyCyndaPokeTeam,
+    mikuchinatsuTeam,
+    lisRudyTeam,
+    aquiNoEstaPattTeam,
+    yastMeTeam,
+    zetaemeTeam,
+    zigredBTeam,
   ];
 
   return (

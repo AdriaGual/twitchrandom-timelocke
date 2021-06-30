@@ -1,0 +1,12 @@
+{
+  "playerName": "Arocet",
+  "playerTwitch": "https://www.twitch.tv/arocet",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1396575707363520521/WGOLsZOj_400x400.jpg",
+  "hasCoach": false,
+  "coachName": "",
+  "coachTwitch": "",
+  "coachImageUrl": "",
+  "badges": 0,
+  "lifes": 15,
+  "team": []
+}

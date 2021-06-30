@@ -6,6 +6,7 @@ module.exports = {
       black: "#1E1E1E",
       white: "#FDFAFD",
       purple: "#A353C8",
+      red: "#F73718 ",
       ground: "#DDBB55",
       normal: "#AAAA99",
       fire: "#FF4422",

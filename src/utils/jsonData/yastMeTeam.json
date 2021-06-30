@@ -1,0 +1,12 @@
+{
+  "playerName": "YastMe",
+  "playerTwitch": "https://www.twitch.tv/YastMe",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1375439851273719819/PbqZUTRb_400x400.jpg",
+  "hasCoach": false,
+  "coachName": "",
+  "coachTwitch": "",
+  "coachImageUrl": "",
+  "badges": 0,
+  "lifes": 15,
+  "team": []
+}
