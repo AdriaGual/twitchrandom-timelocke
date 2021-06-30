@@ -12,12 +12,18 @@ function TopBar() {
             <img src={logo} alt="twitch-cup-logo" className="h-20"></img>
             <div className=" flex-grow"></div>
             <Moment
-              date="2021-06-30T11:59-0500"
+              date="2021-07-01T11:59-0500"
               interval={100}
               format="d [días] hh [h] : mm [m] : ss [s]"
               className="text-white text-xl font-semibold hidden lg:flex"
               durationFromNow
             />
+            <div className=" flex-grow"></div>
+            <div className="flex gap-4">
+              <p className="text-white">Inicio</p>
+              <p className="text-white">Clips</p>
+              <p className="text-white">Top Cut</p>
+            </div>
           </div>
           <div></div>
         </div>
