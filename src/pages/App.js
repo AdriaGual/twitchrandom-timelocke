@@ -1,9 +1,10 @@
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { Helmet } from "react-helmet";
+import Analytics from "react-router-ga";
+import Main from "../components/Main/Main";
 import TopBar from "../components/TopBar/TopBar";
 import TopCut from "../components/TopCut/TopCut";
-import Main from "../components/Main/Main";
-import { Helmet } from "react-helmet";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Analytics from "react-router-ga";
+import Novedades from "../components/Novedades/Novedades";
 
 function App() {
   return (
@@ -35,6 +36,19 @@ function App() {
             </Helmet>
             <TopBar></TopBar>
             <TopCut></TopCut>
+          </Route>
+          <Route exact path="/novedades">
+            <Helmet>
+              <meta charSet="utf-8" />
+              <title>PokeRandom Tournament</title>
+              <meta
+                name="description"
+                content="Todos los equipos del Pokerandom Tournament 2021."
+              />
+              <link rel="canonical" href="http://pokerandomTournament.ga" />
+            </Helmet>
+            <TopBar></TopBar>
+            <Novedades></Novedades>
           </Route>
         </Switch>
       </Analytics>

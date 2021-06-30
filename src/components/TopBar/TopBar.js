@@ -27,6 +27,9 @@ function TopBar() {
               <Link to="/topCut" className="text-white">
                 Top Cut
               </Link>
+              <Link to="/novedades" className="text-white">
+                Novedades
+              </Link>
             </div>
           </div>
           <div></div>
