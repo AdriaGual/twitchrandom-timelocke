@@ -6,7 +6,176 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 0,
+  "badges": 2,
   "lifes": 15,
-  "team": []
+  "team": [
+    {
+      "pokemonName": "SACOPAPAS",
+      "pokemonIndex": 296,
+      "pokemonHability": "Intimidación",
+      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonMoves": [
+        {
+          "moveName": "Onda Trueno",
+          "PP": 20,
+          "type": "Eléctrico"
+        },
+        {
+          "moveName": "Triturar",
+          "PP": 15,
+          "type": "Siniestro"
+        },
+        {
+          "moveName": "Sofoco",
+          "PP": 5,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Mordisco",
+          "PP": 25,
+          "type": "Siniestro"
+        }
+      ]
+    },
+    {
+      "pokemonName": "CHEPAR",
+      "pokemonIndex": 258,
+      "pokemonHability": "Intimidación",
+      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonMoves": [
+        {
+          "moveName": "Onda Trueno",
+          "PP": 20,
+          "type": "Eléctrico"
+        },
+        {
+          "moveName": "Triturar",
+          "PP": 15,
+          "type": "Siniestro"
+        },
+        {
+          "moveName": "Sofoco",
+          "PP": 5,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Mordisco",
+          "PP": 25,
+          "type": "Siniestro"
+        }
+      ]
+    },
+    {
+      "pokemonName": "HEDWIG",
+      "pokemonIndex": 163,
+      "pokemonHability": "Intimidación",
+      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonMoves": [
+        {
+          "moveName": "Onda Trueno",
+          "PP": 20,
+          "type": "Eléctrico"
+        },
+        {
+          "moveName": "Triturar",
+          "PP": 15,
+          "type": "Siniestro"
+        },
+        {
+          "moveName": "Sofoco",
+          "PP": 5,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Mordisco",
+          "PP": 25,
+          "type": "Siniestro"
+        }
+      ]
+    },
+    {
+      "pokemonName": "OROCHIMARU",
+      "pokemonIndex": 23,
+      "pokemonHability": "Intimidación",
+      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonMoves": [
+        {
+          "moveName": "Onda Trueno",
+          "PP": 20,
+          "type": "Eléctrico"
+        },
+        {
+          "moveName": "Triturar",
+          "PP": 15,
+          "type": "Siniestro"
+        },
+        {
+          "moveName": "Sofoco",
+          "PP": 5,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Mordisco",
+          "PP": 25,
+          "type": "Siniestro"
+        }
+      ]
+    },
+    {
+      "pokemonName": "UWUNNIE",
+      "pokemonIndex": 183,
+      "pokemonHability": "Intimidación",
+      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonMoves": [
+        {
+          "moveName": "Onda Trueno",
+          "PP": 20,
+          "type": "Eléctrico"
+        },
+        {
+          "moveName": "Triturar",
+          "PP": 15,
+          "type": "Siniestro"
+        },
+        {
+          "moveName": "Sofoco",
+          "PP": 5,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Mordisco",
+          "PP": 25,
+          "type": "Siniestro"
+        }
+      ]
+    },
+    {
+      "pokemonName": "JIRAIYA",
+      "pokemonIndex": 273,
+      "pokemonHability": "Intimidación",
+      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonMoves": [
+        {
+          "moveName": "Onda Trueno",
+          "PP": 20,
+          "type": "Eléctrico"
+        },
+        {
+          "moveName": "Triturar",
+          "PP": 15,
+          "type": "Siniestro"
+        },
+        {
+          "moveName": "Sofoco",
+          "PP": 5,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Mordisco",
+          "PP": 25,
+          "type": "Siniestro"
+        }
+      ]
+    }
+  ]
 }
