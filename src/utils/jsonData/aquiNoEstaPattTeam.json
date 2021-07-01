@@ -7,63 +7,6 @@
   "coachTwitch": "",
   "coachImageUrl": "",
   "badges": 2,
-  "lifes": 2,
-  "team": [
-    {
-      "pokemonName": "ZIGZAGOON",
-      "pokemonIndex": 262,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Frota su pelo hirsuto contra los árboles con el fin de marcar su territorio. Tiene un carácter más afable que el Zigzagoon de Galar.",
-      "pokemonMoves": [
-        {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
-        },
-        {
-          "moveName": "Vozarrón",
-          "PP": 10,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Gigadrenado",
-          "PP": 5,
-          "type": "Planta"
-        },
-        {
-          "moveName": "Rayo",
-          "PP": 15,
-          "type": "Eléctrico"
-        }
-      ]
-    },
-    {
-      "pokemonName": "MASQUERAIN",
-      "pokemonIndex": 283,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Intimida a sus enemigos con las grandes pupilas de sus antenas. Si esto no funciona, bate sus cuatro alas para huir.",
-      "pokemonMoves": [
-        {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
-        },
-        {
-          "moveName": "Vozarrón",
-          "PP": 10,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Gigadrenado",
-          "PP": 5,
-          "type": "Planta"
-        },
-        {
-          "moveName": "Rayo",
-          "PP": 15,
-          "type": "Eléctrico"
-        }
-      ]
-    }
-  ]
+  "lifes": 0,
+  "team": []
 }
