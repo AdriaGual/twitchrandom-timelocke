@@ -6,7 +6,176 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 0,
+  "badges": 2,
   "lifes": 15,
-  "team": []
+  "team": [
+    {
+      "pokemonName": "MOTOTREECO",
+      "pokemonIndex": 252,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Las hojas que Grovyle tiene por el cuerpo le resultan muy útiles para camuflarse en el bosque y esconderse de los enemigos. A este Pokémon no hay quien lo supere subiendo a los árboles del bosque.",
+      "pokemonMoves": [
+        {
+          "moveName": "Hidrobomba",
+          "PP": 5,
+          "type": "Agua"
+        },
+        {
+          "moveName": "Hoja Aguda",
+          "PP": 15,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        },
+        {
+          "moveName": "Tumba rocas",
+          "PP": 15,
+          "type": "Roca"
+        }
+      ]
+    },
+    {
+      "pokemonName": "WINGULL",
+      "pokemonIndex": 277,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Construye sus nidos en acantilados escarpados. Aprovecha la brisa marina para elevarse hacia el inmenso cielo y planear.",
+      "pokemonMoves": [
+        {
+          "moveName": "Empujón",
+          "PP": 20,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Cola Férrea",
+          "PP": 15,
+          "type": "Acero"
+        },
+        {
+          "moveName": "Ácido",
+          "PP": 30,
+          "type": "Veneno"
+        },
+        {
+          "moveName": "Picotazo",
+          "PP": 35,
+          "type": "Volador"
+        }
+      ]
+    },
+    {
+      "pokemonName": "BAGO",
+      "pokemonIndex": 370,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "En su afán por volar, fortalece su cuerpo a diario saltando desde acantilados.",
+      "pokemonMoves": [
+        {
+          "moveName": "Empujón",
+          "PP": 20,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Cola Férrea",
+          "PP": 15,
+          "type": "Acero"
+        },
+        {
+          "moveName": "Ácido",
+          "PP": 30,
+          "type": "Veneno"
+        },
+        {
+          "moveName": "Picotazo",
+          "PP": 35,
+          "type": "Volador"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ELLIE",
+      "pokemonIndex": 227,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Famoso por su lealtad y ánimo cooperativo. Obedecerá sin dudar todo cuanto le ordene su Entrenador.",
+      "pokemonMoves": [
+        {
+          "moveName": "Hidrocañon",
+          "PP": 5,
+          "type": "Agua"
+        },
+        {
+          "moveName": "Cola Férrea",
+          "PP": 15,
+          "type": "Acero"
+        },
+        {
+          "moveName": "Ácido",
+          "PP": 30,
+          "type": "Veneno"
+        },
+        {
+          "moveName": "Picotazo",
+          "PP": 35,
+          "type": "Volador"
+        }
+      ]
+    },
+    {
+      "pokemonName": "GENGAR",
+      "pokemonIndex": 93,
+      "pokemonHability": "Intimidación",
+      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonMoves": [
+        {
+          "moveName": "Onda Trueno",
+          "PP": 20,
+          "type": "Eléctrico"
+        },
+        {
+          "moveName": "Triturar",
+          "PP": 15,
+          "type": "Siniestro"
+        },
+        {
+          "moveName": "Sofoco",
+          "PP": 5,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Mordisco",
+          "PP": 25,
+          "type": "Siniestro"
+        }
+      ]
+    },
+    {
+      "pokemonName": "IGGLYBOFF",
+      "pokemonIndex": 173,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Le apasiona cantar. Su cuerpo suave y esponjoso desprende un aroma ligeramente dulce.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    }
+  ]
 }

@@ -21,11 +21,11 @@ import zigredBTeam from "../../utils/jsonData/zigredBTeam.json";
 
 function Main() {
   const streamerTeams = [
+    streamfranTeam,
     sharknessTeam,
     anuhiuTeam,
     arocetTeam,
     comandanteShepardTeam,
-    streamfranTeam,
     hatositoTeam,
     moonxwisherTeam,
     kiarafeyTeam,
