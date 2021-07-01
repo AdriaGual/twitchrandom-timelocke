@@ -6,7 +6,120 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 0,
-  "lifes": 15,
-  "team": []
+  "badges": 1,
+  "lifes": 13,
+  "team": [
+    {
+      "pokemonName": "TORTILLA",
+      "pokemonIndex": 275,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Taillow se mantiene firme ante sus rivales, sean lo fuertes que sean. Este valiente Pokémon seguirá mostrándose desafiante, aunque pierda en combate. Además, si se enfada, se pondrá a gritar con energía.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "MUSOL",
+      "pokemonIndex": 162,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Se apoya en una sola pata y, cuando cambia de una a otra, se mueve tan rápido que apenas se percibe.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "HAPIMIL",
+      "pokemonIndex": 186,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Este Pokémon flota en el aire y se deja llevar. Cuando percibe que el viento va a cambiar a fuerte, Hoppip entrelaza sus hojas con otros Hoppip para hacer resistencia y evitar salir volando por la fuerza de la corriente.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ARMANDO",
+      "pokemonIndex": 346,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Este Pokémon se regeneró a partir de un fósil. Habitaba en los mares de hace cien millones de años. Atrapaba a sus presas con sus dos pinzas.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    }
+  ]
 }
