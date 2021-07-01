@@ -105,19 +105,19 @@
           "type": "Agua"
         },
         {
-          "moveName": "Cola Férrea",
+          "moveName": "Doble Rayo",
           "PP": 15,
-          "type": "Acero"
+          "type": "Bicho"
         },
         {
-          "moveName": "Ácido",
-          "PP": 30,
-          "type": "Veneno"
+          "moveName": "Hipercolmillo",
+          "PP": 15,
+          "type": "Normal"
         },
         {
-          "moveName": "Picotazo",
+          "moveName": "Destructor",
           "PP": 35,
-          "type": "Volador"
+          "type": "Normal"
         }
       ]
     },
