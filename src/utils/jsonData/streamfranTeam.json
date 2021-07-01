@@ -38,30 +38,30 @@
       ]
     },
     {
-      "pokemonName": "WINGULL",
-      "pokemonIndex": 277,
+      "pokemonName": "POLLO COCA",
+      "pokemonIndex": 254,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Construye sus nidos en acantilados escarpados. Aprovecha la brisa marina para elevarse hacia el inmenso cielo y planear.",
       "pokemonMoves": [
         {
-          "moveName": "Empujón",
-          "PP": 20,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Cola Férrea",
+          "moveName": "Triturar",
           "PP": 15,
-          "type": "Acero"
+          "type": "Siniestro"
         },
         {
-          "moveName": "Ácido",
-          "PP": 30,
-          "type": "Veneno"
+          "moveName": "Megapuño",
+          "PP": 20,
+          "type": "Normal"
         },
         {
-          "moveName": "Picotazo",
-          "PP": 35,
-          "type": "Volador"
+          "moveName": "Descanso",
+          "PP": 10,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Onda ígnea",
+          "PP": 10,
+          "type": "Fuego"
         }
       ]
     },
