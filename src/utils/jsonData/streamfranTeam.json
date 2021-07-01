@@ -40,13 +40,13 @@
     {
       "pokemonName": "POLLO COCA",
       "pokemonIndex": 254,
-      "pokemonHability": "Mar Llamas",
+      "pokemonHability": "Bucle Aire",
       "pokemonDescription": "Construye sus nidos en acantilados escarpados. Aprovecha la brisa marina para elevarse hacia el inmenso cielo y planear.",
       "pokemonMoves": [
         {
-          "moveName": "Triturar",
-          "PP": 15,
-          "type": "Siniestro"
+          "moveName": "Impresionar",
+          "PP": 30,
+          "type": "Fantasma"
         },
         {
           "moveName": "Megapuño",
