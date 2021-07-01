@@ -13,27 +13,27 @@
       "pokemonName": "SACOPAPAS",
       "pokemonIndex": 296,
       "pokemonHability": "Intimidación",
-      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonDescription": "Adora las competiciones de fuerza, pero el respeto y la cortesía hacia sus adversarios son muy importantes para este noble Pokémon.",
       "pokemonMoves": [
         {
-          "moveName": "Onda Trueno",
-          "PP": 20,
-          "type": "Eléctrico"
-        },
-        {
-          "moveName": "Triturar",
-          "PP": 15,
-          "type": "Siniestro"
-        },
-        {
-          "moveName": "Sofoco",
+          "moveName": "Detección",
           "PP": 5,
-          "type": "Fuego"
+          "type": "Lucha"
         },
         {
-          "moveName": "Mordisco",
-          "PP": 25,
-          "type": "Siniestro"
+          "moveName": "Vel. Extrema",
+          "PP": 5,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Viento Plata",
+          "PP": 5,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Hipnosis",
+          "PP": 20,
+          "type": "Psíquico"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "pokemonName": "CHEPAR",
       "pokemonIndex": 258,
       "pokemonHability": "Intimidación",
-      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonDescription": "El cuerpo de Marshtomp está cubierto por una fina película pegajosa gracias a la cual puede vivir en tierra. Cuando la marea está baja, a este Pokémon le encanta jugar en el fango.",
       "pokemonMoves": [
         {
           "moveName": "Onda Trueno",
@@ -69,27 +69,27 @@
       "pokemonName": "HEDWIG",
       "pokemonIndex": 163,
       "pokemonHability": "Intimidación",
-      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonDescription": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más absoluta.",
       "pokemonMoves": [
         {
-          "moveName": "Onda Trueno",
-          "PP": 20,
-          "type": "Eléctrico"
+          "moveName": "Arañazo",
+          "PP": 30,
+          "type": "Normal"
         },
         {
-          "moveName": "Triturar",
-          "PP": 15,
-          "type": "Siniestro"
+          "moveName": "Carámbano",
+          "PP": 30,
+          "type": "Normal"
         },
         {
-          "moveName": "Sofoco",
+          "moveName": "Fuerza Bruta",
           "PP": 5,
-          "type": "Fuego"
+          "type": "Lucha"
         },
         {
-          "moveName": "Mordisco",
-          "PP": 25,
-          "type": "Siniestro"
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
         }
       ]
     },
@@ -97,7 +97,7 @@
       "pokemonName": "OROCHIMARU",
       "pokemonIndex": 23,
       "pokemonHability": "Intimidación",
-      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonDescription": "Se han llegado a identificar hasta seis variaciones distintas de los espeluznantes dibujos de su piel.",
       "pokemonMoves": [
         {
           "moveName": "Onda Trueno",
@@ -125,27 +125,27 @@
       "pokemonName": "UWUNNIE",
       "pokemonIndex": 183,
       "pokemonHability": "Intimidación",
-      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonDescription": "Pasa la mayor parte del tiempo en el agua. Los días despejados, aprovecha para tomar el sol flotando en la superficie.",
       "pokemonMoves": [
         {
-          "moveName": "Onda Trueno",
-          "PP": 20,
-          "type": "Eléctrico"
-        },
-        {
-          "moveName": "Triturar",
-          "PP": 15,
-          "type": "Siniestro"
-        },
-        {
-          "moveName": "Sofoco",
+          "moveName": "Ventisca",
           "PP": 5,
-          "type": "Fuego"
+          "type": "Hielo"
         },
         {
-          "moveName": "Mordisco",
-          "PP": 25,
-          "type": "Siniestro"
+          "moveName": "Patada Baja",
+          "PP": 20,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Tinieblas",
+          "PP": 15,
+          "type": "Fantasma"
+        },
+        {
+          "moveName": "Cerca",
+          "PP": 10,
+          "type": "Psíquico"
         }
       ]
     },
@@ -153,27 +153,27 @@
       "pokemonName": "JIRAIYA",
       "pokemonIndex": 273,
       "pokemonHability": "Intimidación",
-      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
+      "pokemonDescription": "Vive en lo más profundo del bosque. Utiliza la hoja de la cabeza como flauta para emitir un sonido perturbador.",
       "pokemonMoves": [
         {
-          "moveName": "Onda Trueno",
-          "PP": 20,
+          "moveName": "Rayo",
+          "PP": 15,
           "type": "Eléctrico"
         },
         {
-          "moveName": "Triturar",
-          "PP": 15,
-          "type": "Siniestro"
-        },
-        {
-          "moveName": "Sofoco",
+          "moveName": "Electrocañón",
           "PP": 5,
-          "type": "Fuego"
+          "type": "Eléctrico"
         },
         {
-          "moveName": "Mordisco",
-          "PP": 25,
-          "type": "Siniestro"
+          "moveName": "Psíquico",
+          "PP": 10,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Sol matinal",
+          "PP": 5,
+          "type": "Normal"
         }
       ]
     }
