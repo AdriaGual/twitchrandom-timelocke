@@ -6,14 +6,14 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 2,
-  "lifes": 15,
+  "badges": 3,
+  "lifes": 14,
   "team": [
     {
       "pokemonName": "MOTOTREECO",
-      "pokemonIndex": 252,
+      "pokemonIndex": 253,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Las hojas que Grovyle tiene por el cuerpo le resultan muy útiles para camuflarse en el bosque y esconderse de los enemigos. A este Pokémon no hay quien lo supere subiendo a los árboles del bosque.",
+      "pokemonDescription": "Las hojas que le salen a Sceptile del cuerpo tienen unos bordes muy afilados. Este Pokémon es muy ágil, va saltando de rama en rama y se lanza sobre el enemigo por la espalda.",
       "pokemonMoves": [
         {
           "moveName": "Hidrobomba",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "pokemonName": "POLLO COCA",
-      "pokemonIndex": 255,
+      "pokemonName": "WURMPLE",
+      "pokemonIndex": 5,
       "pokemonHability": "Bucle Aire",
-      "pokemonDescription": "Construye sus nidos en acantilados escarpados. Aprovecha la brisa marina para elevarse hacia el inmenso cielo y planear.",
+      "pokemonDescription": "Escupe un fuego tan caliente que funde las rocas. Causa incendios forestales sin querer.",
       "pokemonMoves": [
         {
           "moveName": "Impresionar",
@@ -67,9 +67,9 @@
     },
     {
       "pokemonName": "BAGO",
-      "pokemonIndex": 370,
+      "pokemonIndex": 371,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "En su afán por volar, fortalece su cuerpo a diario saltando desde acantilados.",
+      "pokemonDescription": "Lo recubre una dura coraza de tejido óseo. En el interior, acumula energía de cara a la evolución.",
       "pokemonMoves": [
         {
           "moveName": "Empujón",
@@ -95,9 +95,9 @@
     },
     {
       "pokemonName": "ELLIE",
-      "pokemonIndex": 227,
+      "pokemonIndex": 228,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Famoso por su lealtad y ánimo cooperativo. Obedecerá sin dudar todo cuanto le ordene su Entrenador.",
+      "pokemonDescription": "Remata a sus rivales exhalando llamas tóxicas. Si abate una presa, la compartirá a partes iguales con el resto de la manada.",
       "pokemonMoves": [
         {
           "moveName": "Hidrocañon",
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "IGGLYBOFF",
-      "pokemonIndex": 173,
+      "pokemonName": "TANKGASKAN",
+      "pokemonIndex": 114,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Le apasiona cantar. Su cuerpo suave y esponjoso desprende un aroma ligeramente dulce.",
       "pokemonMoves": [
