@@ -6,12 +6,12 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 0,
+  "badges": 2,
   "lifes": 15,
   "team": [
     {
       "pokemonName": "KORITO",
-      "pokemonIndex": 154,
+      "pokemonIndex": 155,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Cyndaquil se protege soltando llamas por el lomo. Cuando está enfadado, las llamas son fieras, pero, si está cansado, solo consigue echar algunas chispas que no llegan a cuajar en una completa combustión.",
       "pokemonMoves": [
@@ -96,6 +96,62 @@
     {
       "pokemonName": "GENIS",
       "pokemonIndex": 128,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Es el Pokémon más débil y patético que existe, con una fuerza y velocidad prácticamente nulas.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "VIVI",
+      "pokemonIndex": 42,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Es el Pokémon más débil y patético que existe, con una fuerza y velocidad prácticamente nulas.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "GRIPE",
+      "pokemonIndex": 234,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Es el Pokémon más débil y patético que existe, con una fuerza y velocidad prácticamente nulas.",
       "pokemonMoves": [
