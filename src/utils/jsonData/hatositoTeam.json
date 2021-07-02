@@ -6,14 +6,14 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 2,
-  "lifes": 14,
+  "badges": 5,
+  "lifes": 13,
   "team": [
     {
-      "pokemonName": "CATERPIE",
-      "pokemonIndex": 158,
+      "pokemonName": "BUTTERFREE",
+      "pokemonIndex": 159,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Una vez que Croconaw le ha clavado los colmillos a su presa, es imposible que escape porque los tiene hacia adentro como si fueran anzuelos. Cuando Croconaw hinca los dientes, no hay escapatoria.",
+      "pokemonDescription": "Feraligatr intimida a sus oponentes abriendo las grandes fauces que tiene. En combate, golpea el suelo bruscamente con las gruesas y fuertes patas traseras que tiene para cargar contra su rival a una velocidad de vértigo.",
       "pokemonMoves": [
         {
           "moveName": "Megacuerno",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "pokemonName": "CESPEDA",
-      "pokemonIndex": 43,
+      "pokemonName": "SUAVE",
+      "pokemonIndex": 294,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Libera un fétido olor por los pistilos. El fuerte hedor hace perder el conocimiento a cualquiera que se encuentre en un radio de 2 km.",
+      "pokemonDescription": "En la antigüedad, los bramidos de Exploud se utilizaban como medio de comunicación entre pueblos alejados.",
       "pokemonMoves": [
         {
           "moveName": "Megacuerno",
@@ -66,10 +66,10 @@
       ]
     },
     {
-      "pokemonName": "PIKABLU",
-      "pokemonIndex": 183,
+      "pokemonName": "JAGGER",
+      "pokemonIndex": 106,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Pasa la mayor parte del tiempo en el agua. Los días despejados, aprovecha para tomar el sol flotando en la superficie.",
+      "pokemonDescription": "Sus puñetazos cortan el aire. Son tan veloces que el mínimo roce podría causar una quemadura.",
       "pokemonMoves": [
         {
           "moveName": "Megacuerno",
@@ -94,10 +94,10 @@
       ]
     },
     {
-      "pokemonName": "POGGIES",
-      "pokemonIndex": 49,
+      "pokemonName": "PERROBERTO",
+      "pokemonIndex": 309,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Si un Diglett excava un terreno, lo deja perfectamente arado y preparado para sembrarlo.",
+      "pokemonDescription": "La electricidad estimula su musculatura para que pueda moverse a gran velocidad y le ayuda a recuperarse del dolor muscular rápidamente.",
       "pokemonMoves": [
         {
           "moveName": "Megacuerno",
@@ -122,10 +122,10 @@
       ]
     },
     {
-      "pokemonName": "MARI",
-      "pokemonIndex": 266,
+      "pokemonName": "FEDERICO",
+      "pokemonIndex": 168,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "La comida favorita de Beautifly es el dulce polen de las flores. Si quieres ver a este Pokémon, deja una maceta con flores al lado de la ventana y verás cómo aparece un ejemplar de Beautifly en busca de polen.",
+      "pokemonDescription": "Sus patas se han convertido en alas. Se lanza sobre su presa en un vuelo silencioso a alta velocidad y le clava los colmillos en la nuca.",
       "pokemonMoves": [
         {
           "moveName": "Megacuerno",
@@ -151,9 +151,9 @@
     },
     {
       "pokemonName": "PESTOSITO",
-      "pokemonIndex": 108,
+      "pokemonIndex": 109,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Su cuerpo está lleno a rebosar de gas venenoso. Acude a los vertederos atraído por el putrefacto olor que emana de los desperdicios.",
+      "pokemonDescription": "Usa sus dos cuerpos para mezclar gases. Según parece, en el pasado podían hallarse ejemplares por todos los rincones de Galar.",
       "pokemonMoves": [
         {
           "moveName": "Megacuerno",
