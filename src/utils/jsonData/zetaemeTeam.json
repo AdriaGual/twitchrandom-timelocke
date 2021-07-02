@@ -6,7 +6,7 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 3,
+  "badges": 4,
   "lifes": 14,
   "team": [
     {
@@ -95,7 +95,7 @@
     },
     {
       "pokemonName": "MEGAMIND",
-      "pokemonIndex": 63,
+      "pokemonIndex": 64,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "KOBURO",
-      "pokemonIndex": 23,
+      "pokemonName": "KO MAKER",
+      "pokemonIndex": 256,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Se han llegado a identificar hasta seis variaciones distintas de los espeluznantes dibujos de su piel.",
       "pokemonMoves": [
