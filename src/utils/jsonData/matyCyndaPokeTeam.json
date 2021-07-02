@@ -6,8 +6,8 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 2,
-  "lifes": 11,
+  "badges": 4,
+  "lifes": 10,
   "team": [
     {
       "pokemonName": "NAIM",
@@ -39,7 +39,7 @@
     },
     {
       "pokemonName": "KACHAW",
-      "pokemonIndex": 308,
+      "pokemonIndex": 309,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas por todo el cuerpo.",
       "pokemonMoves": [
@@ -123,7 +123,7 @@
     },
     {
       "pokemonName": "EL BICHOOO",
-      "pokemonIndex": 65,
+      "pokemonIndex": 66,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Es una masa de músculos y, pese a su pequeño tamaño, tiene fuerza de sobra para levantar en brazos a 100 personas.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "CRABJAM",
-      "pokemonIndex": 340,
+      "pokemonName": "IRIS",
+      "pokemonIndex": 281,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Por muy sucio o contaminado que esté el río, se adaptan rápido y se multiplican. Poseen una gran fuerza vital.",
       "pokemonMoves": [
