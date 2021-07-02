@@ -1,12 +1,12 @@
 {
-  "playerName": "VSharkness",
+  "playerName": "Sharkness",
   "playerTwitch": "https://www.twitch.tv/VSharkness",
   "playerImageUrl": "https://pbs.twimg.com/profile_images/1347569865582931970/secE7Pl__400x400.png",
   "hasCoach": false,
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 2,
+  "badges": 3,
   "lifes": 15,
   "team": [
     {
@@ -122,10 +122,10 @@
       ]
     },
     {
-      "pokemonName": "UWUNNIE",
-      "pokemonIndex": 183,
+      "pokemonName": "PULGARCITO",
+      "pokemonIndex": 49,
       "pokemonHability": "Intimidación",
-      "pokemonDescription": "Pasa la mayor parte del tiempo en el agua. Los días despejados, aprovecha para tomar el sol flotando en la superficie.",
+      "pokemonDescription": "Si un Diglett excava un terreno, lo deja perfectamente arado y preparado para sembrarlo.",
       "pokemonMoves": [
         {
           "moveName": "Ventisca",
