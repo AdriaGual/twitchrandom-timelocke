@@ -6,14 +6,14 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 1,
-  "lifes": 13,
+  "badges": 2,
+  "lifes": 12,
   "team": [
     {
-      "pokemonName": "TORTILLA",
-      "pokemonIndex": 275,
+      "pokemonName": "HAPIMIL",
+      "pokemonIndex": 187,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Taillow se mantiene firme ante sus rivales, sean lo fuertes que sean. Este valiente Pokémon seguirá mostrándose desafiante, aunque pierda en combate. Además, si se enfada, se pondrá a gritar con energía.",
+      "pokemonDescription": "Skiploom florece cuando la temperatura llega a 18 °C. La apertura de los pétalos varía según la temperatura que haga. Por este motivo, la gente lo usa a veces a modo de termómetro.",
       "pokemonMoves": [
         {
           "moveName": "Megacuerno",
@@ -39,9 +39,9 @@
     },
     {
       "pokemonName": "MUSOL",
-      "pokemonIndex": 162,
+      "pokemonIndex": 163,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Se apoya en una sola pata y, cuando cambia de una a otra, se mueve tan rápido que apenas se percibe.",
+      "pokemonDescription": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más absoluta.",
       "pokemonMoves": [
         {
           "moveName": "Megacuerno",
@@ -66,10 +66,10 @@
       ]
     },
     {
-      "pokemonName": "HAPIMIL",
-      "pokemonIndex": 186,
+      "pokemonName": "MAMADISIMO",
+      "pokemonIndex": 65,
       "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Este Pokémon flota en el aire y se deja llevar. Cuando percibe que el viento va a cambiar a fuerte, Hoppip entrelaza sus hojas con otros Hoppip para hacer resistencia y evitar salir volando por la fuerza de la corriente.",
+      "pokemonDescription": "Es una masa de músculos y, pese a su pequeño tamaño, tiene fuerza de sobra para levantar en brazos a 100 personas.",
       "pokemonMoves": [
         {
           "moveName": "Megacuerno",
@@ -98,6 +98,62 @@
       "pokemonIndex": 346,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Este Pokémon se regeneró a partir de un fósil. Habitaba en los mares de hace cien millones de años. Atrapaba a sus presas con sus dos pinzas.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "SUSHI",
+      "pokemonIndex": 129,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Es exageradamente agresivo. El Hiperrayo que lanza por la boca reduce a cenizas todo lo que encuentra.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "MAGENTO",
+      "pokemonIndex": 80,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "A veces se desploman al suelo tras agotar su suministro eléctrico interno, pero basta una pequeña batería para reanimarlos.",
       "pokemonMoves": [
         {
           "moveName": "Megacuerno",
