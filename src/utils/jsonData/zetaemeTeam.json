@@ -6,7 +6,7 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 4,
+  "badges": 6,
   "lifes": 14,
   "team": [
     {
@@ -38,8 +38,8 @@
       ]
     },
     {
-      "pokemonName": "PAKUCHO",
-      "pokemonIndex": 24,
+      "pokemonName": "FANTOCHE",
+      "pokemonIndex": 354,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Cuanto más potente es la energía eléctrica que genera este Pokémon, más suaves y elásticas se vuelven las bolsas de sus mejillas.",
       "pokemonMoves": [
@@ -123,7 +123,7 @@
     },
     {
       "pokemonName": "BOMBONA",
-      "pokemonIndex": 293,
+      "pokemonIndex": 294,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "A través de las orejas, que le sirven de altavoces, emite ondas sonoras capaces de echar abajo una casa.",
       "pokemonMoves": [
