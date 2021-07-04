@@ -6,11 +6,11 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 3,
-  "lifes": 11,
+  "badges": 8,
+  "lifes": 10,
   "team": [
     {
-      "pokemonName": "WOBBUFFET",
+      "pokemonName": "BOBO",
       "pokemonIndex": 201,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Odia la luz y las sacudidas. Si le atacan, infla su cuerpo para contraatacar con más ímpetu.",
@@ -39,7 +39,7 @@
     },
     {
       "pokemonName": "TOTO",
-      "pokemonIndex": 158,
+      "pokemonIndex": 159,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Una vez que Croconaw le ha clavado los colmillos a su presa, es imposible que escape porque los tiene hacia adentro como si fueran anzuelos. Cuando Croconaw hinca los dientes, no hay escapatoria.",
       "pokemonMoves": [
@@ -67,7 +67,7 @@
     },
     {
       "pokemonName": "MOFLOS",
-      "pokemonIndex": 258,
+      "pokemonIndex": 259,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "El cuerpo de Marshtomp está cubierto por una fina película pegajosa gracias a la cual puede vivir en tierra. Cuando la marea está baja, a este Pokémon le encanta jugar en el fango.",
       "pokemonMoves": [
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "pokemonName": "CAPULLO",
-      "pokemonIndex": 11,
+      "pokemonName": "HUEVARDOS",
+      "pokemonIndex": 102,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Aletea a gran velocidad para lanzar al aire sus escamas extremadamente tóxicas.",
       "pokemonMoves": [
@@ -123,7 +123,7 @@
     },
     {
       "pokemonName": "MRJAGGER!",
-      "pokemonIndex": 295,
+      "pokemonIndex": 296,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Entrena golpeando los troncos de los árboles con la mano abierta. A veces le da por error a un Exeggutor y este lo lanza volando.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "PAJAROTO",
-      "pokemonIndex": 16,
+      "pokemonName": "FLYGOPIE",
+      "pokemonIndex": 329,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Su extraordinaria vitalidad y resistencia le permiten cubrir grandes distancias del territorio que habita en busca de presas.",
       "pokemonMoves": [
