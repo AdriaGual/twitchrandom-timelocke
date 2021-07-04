@@ -6,12 +6,12 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 4,
-  "lifes": 10,
+  "badges": 6,
+  "lifes": 8,
   "team": [
     {
-      "pokemonName": "NAIM",
-      "pokemonIndex": 258,
+      "pokemonName": "NAIM 2",
+      "pokemonIndex": 259,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "El cuerpo de Marshtomp está cubierto por una fina película pegajosa gracias a la cual puede vivir en tierra. Cuando la marea está baja, a este Pokémon le encanta jugar en el fango.",
       "pokemonMoves": [
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "pokemonName": "BARRINA",
-      "pokemonIndex": 14,
+      "pokemonName": "CIELLOW",
+      "pokemonIndex": 276,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Tiene tres aguijones venenosos, dos en las patas anteriores y uno en la parte baja del abdomen, con los que ataca a sus enemigos una y otra vez.",
       "pokemonMoves": [
@@ -122,8 +122,8 @@
       ]
     },
     {
-      "pokemonName": "EL BICHOOO",
-      "pokemonIndex": 66,
+      "pokemonName": "KKK",
+      "pokemonIndex": 48,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Es una masa de músculos y, pese a su pequeño tamaño, tiene fuerza de sobra para levantar en brazos a 100 personas.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "IRIS",
-      "pokemonIndex": 281,
+      "pokemonName": "WALLY",
+      "pokemonIndex": 80,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Por muy sucio o contaminado que esté el río, se adaptan rápido y se multiplican. Poseen una gran fuerza vital.",
       "pokemonMoves": [
