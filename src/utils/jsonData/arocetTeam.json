@@ -6,7 +6,7 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 4,
+  "badges": 6,
   "lifes": 12,
   "team": [
     {
@@ -38,8 +38,8 @@
       ]
     },
     {
-      "pokemonName": "THARKAN04",
-      "pokemonIndex": 360,
+      "pokemonName": "STRONGER",
+      "pokemonIndex": 263,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Dicen que, si aparece a medianoche, provoca grandes nevadas. Se alimenta de nieve y hielo.",
       "pokemonMoves": [
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "pokemonName": "LITTLEROSE",
-      "pokemonIndex": 29,
+      "pokemonName": "BOJACK",
+      "pokemonIndex": 229,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Se cree que el cuerno de la frente se le ha atrofiado para evitar herir a sus crías al alimentarlas.",
       "pokemonMoves": [
