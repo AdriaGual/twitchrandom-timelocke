@@ -6,7 +6,7 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 4,
+  "badges": 6,
   "lifes": 14,
   "team": [
     {
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "pokemonName": "HEDWIG",
-      "pokemonIndex": 163,
+      "pokemonName": "HIDRA",
+      "pokemonIndex": 84,
       "pokemonHability": "Intimidación",
       "pokemonDescription": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más absoluta.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "KOROSENSEI",
-      "pokemonIndex": 223,
+      "pokemonName": "GAMABUNTA",
+      "pokemonIndex": 2,
       "pokemonHability": "Intimidación",
       "pokemonDescription": "Vive en lo más profundo del bosque. Utiliza la hoja de la cabeza como flauta para emitir un sonido perturbador.",
       "pokemonMoves": [
