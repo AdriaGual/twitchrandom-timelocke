@@ -6,12 +6,12 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 1,
-  "lifes": 15,
+  "badges": 3,
+  "lifes": 6,
   "team": [
     {
-      "pokemonName": "DONATELLO",
-      "pokemonIndex": 7,
+      "pokemonName": "GLUTENFREE",
+      "pokemonIndex": 11,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Se lo considera un símbolo de longevidad. Los ejemplares más ancianos tienen musgo sobre el caparazón.",
       "pokemonMoves": [
@@ -38,8 +38,8 @@
       ]
     },
     {
-      "pokemonName": "JAGGER",
-      "pokemonIndex": 235,
+      "pokemonName": "SHEDINJA",
+      "pokemonIndex": 291,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Siempre está rebosante de energía. Por muchas derrotas que acumule, no deja de plantar cara a sus rivales con tal de fortalecerse.",
       "pokemonMoves": [
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "pokemonName": "MASA",
-      "pokemonIndex": 289,
+      "pokemonName": "SERGI",
+      "pokemonIndex": 25,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Vivir bajo tierra durante tanto tiempo lo ha dejado prácticamente ciego. Las antenas que tiene le ayudan a orientarse.",
       "pokemonMoves": [
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "pokemonName": "AWITA",
-      "pokemonIndex": 258,
+      "pokemonName": "CHAD",
+      "pokemonIndex": 120,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "El cuerpo de Marshtomp está cubierto por una fina película pegajosa gracias a la cual puede vivir en tierra. Cuando la marea está baja, a este Pokémon le encanta jugar en el fango.",
       "pokemonMoves": [
@@ -123,7 +123,35 @@
     },
     {
       "pokemonName": "TAEYEON",
-      "pokemonIndex": 348,
+      "pokemonIndex": 349,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Su aspecto poco agraciado hace que no sea muy popular, pero su gran vitalidad resulta de gran interés para la ciencia.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "NOTZAPDOS",
+      "pokemonIndex": 21,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Su aspecto poco agraciado hace que no sea muy popular, pero su gran vitalidad resulta de gran interés para la ciencia.",
       "pokemonMoves": [
