@@ -21,7 +21,7 @@ La página tiene hot reload para los cambios.\
 
 Sirve para crear una versión de producción con los elementos optimizados.
 
-## Funcionamento
+## Funcionamiento
 
 La página contiene toda la información necesaria para cada jugador en un json.
 Este json se debe ir actualizando para que la gente vea los cambios y la progresión de los equipos.
@@ -32,15 +32,15 @@ Los json de TODOS los jugadores tiene el mismo formato
 
 #### Datos principales
 
-playerName: Nombre del jugador
-playerTwitch: Link al twitch/youtube del jugador
-playerImageUrl: Url de la imagen del jugador
-hasCoach: Booleano para determinar si tiene entrenador/coach
-coachName: Nombre del entrenador/coach
-coachTwitch: Link al twitch/youtube del entrenador/coach
-coachImageUrl: Url de la imagen del jugador
-badges: Medallas que tiene el jugador
-lifes: Vidas que le quedan al jugador
+playerName: Nombre del jugador\
+playerTwitch: Link al twitch/youtube del jugador\
+playerImageUrl: Url de la imagen del jugador\
+hasCoach: Booleano para determinar si tiene entrenador/coach\
+coachName: Nombre del entrenador/coach\
+coachTwitch: Link al twitch/youtube del entrenador/coach\
+coachImageUrl: Url de la imagen del jugador\
+badges: Medallas que tiene el jugador\
+lifes: Vidas que le quedan al jugador\
 
 #### Equipo
 
@@ -48,16 +48,16 @@ El atributo equipo es una array dónde se llena de objetos Pokémon.
 
 #### Pokémon
 
-pokemonName: Nombre del pokémon
-pokemonIndex: Índice menos 1 de la entrada del pokémon en la dex INTERNACIONAL. Ejemplo: Noctowl N.ª164 -> pokemonIndex=163. El índice se puede obtener de [https://www.pokemon.com/es/pokedex/](https://www.pokemon.com/es/pokedex/)
-pokemonHability: Habilidad del pokémon
-pokemonDescription: Descripción del pokémon, sacada de [https://www.pokemon.com/es/pokedex/](https://www.pokemon.com/es/pokedex/)
+pokemonName: Nombre del pokémon\
+pokemonIndex: Índice menos 1 de la entrada del pokémon en la dex INTERNACIONAL. Ejemplo: Noctowl N.ª164 -> pokemonIndex=163. El índice se puede obtener de [https://www.pokemon.com/es/pokedex/](https://www.pokemon.com/es/pokedex/)\
+pokemonHability: Habilidad del pokémon\
+pokemonDescription: Descripción del pokémon, sacada de [https://www.pokemon.com/es/pokedex/](https://www.pokemon.com/es/pokedex/)\
 
 #### Movimientos Pokémon
 
-Cada pokemon cuenta una array de sus movimientos.
-moveName: Nombre del ataque
-PP: Número de PP que tiene el ataque
+Cada pokemon cuenta una array de sus movimientos\
+moveName: Nombre del ataque\
+PP: Número de PP que tiene el ataque\
 type: Tipo del ataque en String, las opciones són:
 
 - Bicho
