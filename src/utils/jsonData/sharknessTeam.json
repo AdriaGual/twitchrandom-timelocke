@@ -6,8 +6,8 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 3,
-  "lifes": 15,
+  "badges": 4,
+  "lifes": 14,
   "team": [
     {
       "pokemonName": "SACOPAPAS",
@@ -39,7 +39,7 @@
     },
     {
       "pokemonName": "CHEPAR",
-      "pokemonIndex": 258,
+      "pokemonIndex": 259,
       "pokemonHability": "Intimidación",
       "pokemonDescription": "El cuerpo de Marshtomp está cubierto por una fina película pegajosa gracias a la cual puede vivir en tierra. Cuando la marea está baja, a este Pokémon le encanta jugar en el fango.",
       "pokemonMoves": [
@@ -123,7 +123,7 @@
     },
     {
       "pokemonName": "PULGARCITO",
-      "pokemonIndex": 49,
+      "pokemonIndex": 50,
       "pokemonHability": "Intimidación",
       "pokemonDescription": "Si un Diglett excava un terreno, lo deja perfectamente arado y preparado para sembrarlo.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "JIRAIYA",
-      "pokemonIndex": 273,
+      "pokemonName": "KOROSENSEI",
+      "pokemonIndex": 223,
       "pokemonHability": "Intimidación",
       "pokemonDescription": "Vive en lo más profundo del bosque. Utiliza la hoja de la cabeza como flauta para emitir un sonido perturbador.",
       "pokemonMoves": [
