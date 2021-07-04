@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# PokeRandom Tournament
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto se ha creado con el fin de poder dar visibilidad al PokeRandom Tournament, viendo la progresión y mejora de los diferentes equipos de los participantes
 
-## Available Scripts
+## Scripts
 
-In the project directory, you can run:
+En el proyecto hay los siguientes scrips:
+
+### `npm install`
+
+Instala las dependéncias marcadas por el package.json
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Enciende la app en modo desarrollador.\
+Abre [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+La página tiene hot reload para los cambios.\
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Sirve para crear una versión de producción con los elementos optimizados.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Funcionamento
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+La página contiene toda la información necesaria para cada jugador en un json.
+Este json se debe ir actualizando para que la gente vea los cambios y la progresión de los equipos.
 
-### `npm run eject`
+### Formato
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Los json de TODOS los jugadores tiene el mismo formato
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Datos principales
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+playerName: Nombre del jugador
+playerTwitch: Link al twitch/youtube del jugador
+playerImageUrl: Url de la imagen del jugador
+hasCoach: Booleano para determinar si tiene entrenador/coach
+coachName: Nombre del entrenador/coach
+coachTwitch: Link al twitch/youtube del entrenador/coach
+coachImageUrl: Url de la imagen del jugador
+badges: Medallas que tiene el jugador
+lifes: Vidas que le quedan al jugador
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### Equipo
 
-## Learn More
+El atributo equipo es una array dónde se llena de objetos Pokémon.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Pokémon
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+pokemonName: Nombre del pokémon
+pokemonIndex: Índice menos 1 de la entrada del pokémon en la dex INTERNACIONAL. Ejemplo: Noctowl N.ª164 -> pokemonIndex=163. El índice se puede obtener de [https://www.pokemon.com/es/pokedex/](https://www.pokemon.com/es/pokedex/)
+pokemonHability: Habilidad del pokémon
+pokemonDescription: Descripción del pokémon, sacada de [https://www.pokemon.com/es/pokedex/](https://www.pokemon.com/es/pokedex/)
 
-### Code Splitting
+#### Movimientos Pokémon
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Cada pokemon cuenta una array de sus movimientos.
+moveName: Nombre del ataque
+PP: Número de PP que tiene el ataque
+type: Tipo del ataque en String, las opciones són:
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Bicho
+- Normal
+- Tierra
+- Fuego
+- Agua
+- Eléctrico
+- Planta
+- Hielo
+- Lucha
+- Veneno
+- Volador
+- Psíquico
+- Roca
+- Fantasma
+- Dragón
+- Siniestro
+- Acero
+- Hada (en principio NO deberían existir en el PokeRandom Tournament pero lo he preparado por si en un futuro se quisiera hacer un PokeRandom Tournament 2 con hadas)
