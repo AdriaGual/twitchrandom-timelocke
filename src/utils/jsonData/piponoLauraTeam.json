@@ -6,8 +6,8 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 2,
-  "lifes": 15,
+  "badges": 4,
+  "lifes": 13,
   "team": [
     {
       "pokemonName": "KORITO",
@@ -38,8 +38,8 @@
       ]
     },
     {
-      "pokemonName": "MAFADAKA",
-      "pokemonIndex": 275,
+      "pokemonName": "VICTOR",
+      "pokemonIndex": 23,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Taillow se mantiene firme ante sus rivales, sean lo fuertes que sean. Este valiente Pokémon seguirá mostrándose desafiante, aunque pierda en combate. Además, si se enfada, se pondrá a gritar con energía.",
       "pokemonMoves": [
@@ -67,7 +67,7 @@
     },
     {
       "pokemonName": "ATHENA",
-      "pokemonIndex": 359,
+      "pokemonIndex": 201,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Suelen ir en grupo. Templan su paciencia jugando a empujarse los unos a los otros.",
       "pokemonMoves": [
@@ -95,7 +95,7 @@
     },
     {
       "pokemonName": "GENIS",
-      "pokemonIndex": 128,
+      "pokemonIndex": 129,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Es el Pokémon más débil y patético que existe, con una fuerza y velocidad prácticamente nulas.",
       "pokemonMoves": [
@@ -123,7 +123,7 @@
     },
     {
       "pokemonName": "VIVI",
-      "pokemonIndex": 42,
+      "pokemonIndex": 43,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Es el Pokémon más débil y patético que existe, con una fuerza y velocidad prácticamente nulas.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "GRIPE",
-      "pokemonIndex": 234,
+      "pokemonName": "VAQUERA",
+      "pokemonIndex": 38,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Es el Pokémon más débil y patético que existe, con una fuerza y velocidad prácticamente nulas.",
       "pokemonMoves": [
