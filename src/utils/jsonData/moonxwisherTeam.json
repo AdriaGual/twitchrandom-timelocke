@@ -6,8 +6,8 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 1,
-  "lifes": 15,
+  "badges": 3,
+  "lifes": 9,
   "team": [
     {
       "pokemonName": "NURIA",
@@ -38,64 +38,8 @@
       ]
     },
     {
-      "pokemonName": "DITTO",
-      "pokemonIndex": 131,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
-      "pokemonMoves": [
-        {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
-        },
-        {
-          "moveName": "Vozarrón",
-          "PP": 10,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Gigadrenado",
-          "PP": 5,
-          "type": "Planta"
-        },
-        {
-          "moveName": "Rayo",
-          "PP": 15,
-          "type": "Eléctrico"
-        }
-      ]
-    },
-    {
-      "pokemonName": "KNEKRO",
-      "pokemonIndex": 97,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
-      "pokemonMoves": [
-        {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
-        },
-        {
-          "moveName": "Vozarrón",
-          "PP": 10,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Gigadrenado",
-          "PP": 5,
-          "type": "Planta"
-        },
-        {
-          "moveName": "Rayo",
-          "PP": 15,
-          "type": "Eléctrico"
-        }
-      ]
-    },
-    {
       "pokemonName": "SIMPELES",
-      "pokemonIndex": 18,
+      "pokemonIndex": 19,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
@@ -122,8 +66,64 @@
       ]
     },
     {
-      "pokemonName": "CHEER234",
-      "pokemonIndex": 46,
+      "pokemonName": "FURRITO96",
+      "pokemonIndex": 161,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "LUIS",
+      "pokemonIndex": 129,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "JOSEFINA",
+      "pokemonIndex": 60,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
@@ -151,7 +151,7 @@
     },
     {
       "pokemonName": "EKIS DE",
-      "pokemonIndex": 22,
+      "pokemonIndex": 23,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
