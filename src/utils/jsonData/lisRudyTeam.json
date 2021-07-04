@@ -6,12 +6,12 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 1,
+  "badges": 3,
   "lifes": 14,
   "team": [
     {
-      "pokemonName": "PORRUHO",
-      "pokemonIndex": 163,
+      "pokemonName": "ARDILLO",
+      "pokemonIndex": 161,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Los Dustox se acercan a la luz de forma instintiva. De hecho, se agrupan en enjambres alrededor de las luces de las ciudades y causan estragos en las hojas de los árboles que están a pie de calle para alimentarse.",
       "pokemonMoves": [
@@ -38,8 +38,8 @@
       ]
     },
     {
-      "pokemonName": "PAVANA",
-      "pokemonIndex": 277,
+      "pokemonName": "PIOPIO",
+      "pokemonIndex": 16,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Construye sus nidos en acantilados escarpados. Aprovecha la brisa marina para elevarse hacia el inmenso cielo y planear.",
       "pokemonMoves": [
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "pokemonName": "ADIDAS",
-      "pokemonIndex": 282,
+      "pokemonName": "???",
+      "pokemonIndex": 129,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Si se siente amenazado, segrega un líquido dulce por la cabeza. El sirope elaborado con ese líquido resulta delicioso untado en pan.",
       "pokemonMoves": [
@@ -94,36 +94,36 @@
       ]
     },
     {
-      "pokemonName": "JUANMANDER",
-      "pokemonIndex": 4,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Prefiere las cosas calientes. Dicen que cuando llueve le sale vapor de la punta de la cola.",
+      "pokemonName": "WEVOKINDE",
+      "pokemonIndex": 281,
+      "pokemonHability": "SEBO",
+      "pokemonDescription": "Tiene la capacidad de predecir el futuro. Para proteger a su Entrenador, emplea hasta la última gota de su poder psíquico.",
       "pokemonMoves": [
         {
-          "moveName": "Megacuerno",
+          "moveName": "Rayo Hielo",
           "PP": 10,
-          "type": "Bicho"
+          "type": "Hielo"
         },
         {
-          "moveName": "Vozarrón",
-          "PP": 10,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Gigadrenado",
+          "moveName": "Hidrocañón",
           "PP": 5,
-          "type": "Planta"
+          "type": "Agua"
         },
         {
-          "moveName": "Rayo",
-          "PP": 15,
-          "type": "Eléctrico"
+          "moveName": "Salpicar",
+          "PP": 5,
+          "type": "Agua"
+        },
+        {
+          "moveName": "Recuperación",
+          "PP": 20,
+          "type": "Normal"
         }
       ]
     },
     {
-      "pokemonName": "PERRAIKOL",
-      "pokemonIndex": 308,
+      "pokemonName": "ELMECHAS",
+      "pokemonIndex": 156,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas por todo el cuerpo.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "ARDILLO",
-      "pokemonIndex": 161,
+      "pokemonName": "ADIDAS",
+      "pokemonIndex": 283,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Es exageradamente agresivo. El Hiperrayo que lanza por la boca reduce a cenizas todo lo que encuentra.",
       "pokemonMoves": [
