@@ -1,5 +1,6 @@
 import React from "react";
 import { RiGithubLine, RiTwitterLine, RiInstagramLine } from "react-icons/ri";
+import { Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -7,10 +8,8 @@ function Footer() {
       <div class="grid grid-cols-5 absolute inset-0">
         <div></div>
         <div class="col-span-3 flex items-center">
-          <div className="text-white">© 2021 by Adrià Gual</div>
-          <div className=" flex-grow"></div>
-
-          <div className="flex gap-4">
+          <div className="flex gap-4 text-white">
+            © 2021 by Adrià Gual
             <a
               rel="noreferrer"
               target="_blank"
@@ -36,6 +35,10 @@ function Footer() {
               ></RiInstagramLine>
             </a>
           </div>
+          <div className=" flex-grow"></div>
+          <Link to="/colaboradores" className="text-white">
+            Colaboradores
+          </Link>
         </div>
         <div></div>
       </div>

@@ -5,6 +5,7 @@ import Main from "../components/Main/Main";
 import TopBar from "../components/TopBar/TopBar";
 import TopCut from "../components/TopCut/TopCut";
 import Novedades from "../components/Novedades/Novedades";
+import Colaboradores from "../components/Colaboradores/Colaboradores";
 
 function App() {
   return (
@@ -49,6 +50,19 @@ function App() {
             </Helmet>
             <TopBar></TopBar>
             <Novedades></Novedades>
+          </Route>
+          <Route exact path="/colaboradores">
+            <Helmet>
+              <meta charSet="utf-8" />
+              <title>PokeRandom Tournament</title>
+              <meta
+                name="description"
+                content="Todos los equipos del Pokerandom Tournament 2021."
+              />
+              <link rel="canonical" href="http://pokerandomTournament.ga" />
+            </Helmet>
+            <TopBar></TopBar>
+            <Colaboradores></Colaboradores>
           </Route>
         </Switch>
       </Analytics>

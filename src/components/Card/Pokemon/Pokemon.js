@@ -20,9 +20,9 @@ const Pokemon = (props) => {
   const [modalIsOpen, setIsOpen] = useState(false);
   const [pokemonSprite, setPokemonSprite] = useState(null);
 
-  useEffect( () => {
+  useEffect(() => {
     getPokemonSprite();
-  }, [])
+  });
 
   const openModal = () => setIsOpen(true);
 
@@ -33,7 +33,9 @@ const Pokemon = (props) => {
   };
 
   const getPokemonSprite = useCallback(async () => {
-    const { sprites: { front_default: sprite }} = await PokeAPI.getPokemonByName(props.pokemonIndex + 1);
+    const {
+      sprites: { front_default: sprite },
+    } = await PokeAPI.getPokemonByName(props.pokemonIndex + 1);
 
     setPokemonSprite(sprite);
   }, [props.pokemonIndex]);
@@ -81,6 +83,6 @@ const Pokemon = (props) => {
       </Modal>
     </div>
   );
-}
+};
 
 export default Pokemon;
