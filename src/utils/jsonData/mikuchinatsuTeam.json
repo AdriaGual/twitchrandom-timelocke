@@ -38,7 +38,7 @@
       ]
     },
     {
-      "pokemonName": "SHEDINJA",
+      "pokemonName": "MASARIP",
       "pokemonIndex": 291,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Siempre está rebosante de energía. Por muchas derrotas que acumule, no deja de plantar cara a sus rivales con tal de fortalecerse.",
@@ -122,8 +122,8 @@
       ]
     },
     {
-      "pokemonName": "TAEYEON",
-      "pokemonIndex": 349,
+      "pokemonName": "SUELOW",
+      "pokemonIndex": 276,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Su aspecto poco agraciado hace que no sea muy popular, pero su gran vitalidad resulta de gran interés para la ciencia.",
       "pokemonMoves": [
@@ -150,9 +150,9 @@
       ]
     },
     {
-      "pokemonName": "NOTZAPDOS",
-      "pokemonIndex": 21,
-      "pokemonHability": "Mar Llamas",
+      "pokemonName": "LENTEJAS",
+      "pokemonIndex": 159,
+      "pokemonHability": "Sequía",
       "pokemonDescription": "Su aspecto poco agraciado hace que no sea muy popular, pero su gran vitalidad resulta de gran interés para la ciencia.",
       "pokemonMoves": [
         {

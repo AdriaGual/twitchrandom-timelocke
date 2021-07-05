@@ -6,8 +6,8 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 2,
-  "lifes": 12,
+  "badges": 3,
+  "lifes": 11,
   "team": [
     {
       "pokemonName": "HAPIMIL",
@@ -38,8 +38,8 @@
       ]
     },
     {
-      "pokemonName": "MUSOL",
-      "pokemonIndex": 163,
+      "pokemonName": "KING DADDY",
+      "pokemonIndex": 32,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más absoluta.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "MAGENTO",
-      "pokemonIndex": 80,
+      "pokemonName": "MOCHI",
+      "pokemonIndex": 172,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "A veces se desploman al suelo tras agotar su suministro eléctrico interno, pero basta una pequeña batería para reanimarlos.",
       "pokemonMoves": [
