@@ -6,8 +6,8 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 5,
-  "lifes": 13,
+  "badges": 8,
+  "lifes": 12,
   "team": [
     {
       "pokemonName": "BUTTERFREE",
@@ -16,9 +16,9 @@
       "pokemonDescription": "Feraligatr intimida a sus oponentes abriendo las grandes fauces que tiene. En combate, golpea el suelo bruscamente con las gruesas y fuertes patas traseras que tiene para cargar contra su rival a una velocidad de vértigo.",
       "pokemonMoves": [
         {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
+          "moveName": "Espora",
+          "PP": 15,
+          "type": "Planta"
         },
         {
           "moveName": "Vozarrón",
@@ -122,8 +122,8 @@
       ]
     },
     {
-      "pokemonName": "FEDERICO",
-      "pokemonIndex": 168,
+      "pokemonName": "PERRODRIGO",
+      "pokemonIndex": 228,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Sus patas se han convertido en alas. Se lanza sobre su presa en un vuelo silencioso a alta velocidad y le clava los colmillos en la nuca.",
       "pokemonMoves": [
