@@ -1,5 +1,5 @@
-import React from "react";
-import { getPokemon } from "../../../utils/pokemons";
+import React, { useState, useEffect, useCallback } from "react";
+import { PokeAPI } from "../../../utils/pokemons";
 import Modal from "react-modal";
 import Move from "./Move";
 const customStyles = {
@@ -16,29 +16,35 @@ const customStyles = {
 
 Modal.setAppElement(document.getElementById("root"));
 
-function Pokemon(props) {
-  const [modalIsOpen, setIsOpen] = React.useState(false);
+const Pokemon = (props) => {
+  const [modalIsOpen, setIsOpen] = useState(false);
+  const [pokemonSprite, setPokemonSprite] = useState(null);
 
-  function openModal() {
-    setIsOpen(true);
-  }
+  useEffect( () => {
+    getPokemonSprite();
+  }, [])
 
-  function afterOpenModal() {
+  const openModal = () => setIsOpen(true);
+
+  const closeModal = () => setIsOpen(false);
+
+  const afterOpenModal = () => {
     // references are now sync'd and can be accessed.
-  }
+  };
 
-  function closeModal() {
-    setIsOpen(false);
-  }
+  const getPokemonSprite = useCallback(async () => {
+    const { sprites: { front_default: sprite }} = await PokeAPI.getPokemonByName(props.pokemonIndex + 1);
+
+    setPokemonSprite(sprite);
+  }, [props.pokemonIndex]);
 
   return (
     <div className="cursor-pointer">
       <div onClick={openModal}>
-        {props.pokemonImage}
         <img
-          src={getPokemon(props.pokemonIndex)}
-          className="mx-auto h-24"
-          alt={getPokemon(props.pokemonIndex)}
+          src={pokemonSprite}
+          className="mx-auto h-32"
+          alt={pokemonSprite}
         ></img>
         <p className="text-center font-semibold text-lg">{props.pokemonName}</p>
       </div>
@@ -47,14 +53,14 @@ function Pokemon(props) {
         onAfterOpen={afterOpenModal}
         onRequestClose={closeModal}
         style={customStyles}
-        contentLabel={getPokemon(props.pokemonIndex)}
+        contentLabel={pokemonSprite}
       >
         <div class="grid grid-cols-4">
           <div className="col-span-2">
             <img
-              src={getPokemon(props.pokemonIndex)}
-              className="mx-auto h-24"
-              alt={getPokemon(props.pokemonIndex)}
+              src={pokemonSprite}
+              className="mx-auto h-64"
+              alt={pokemonSprite}
             ></img>
             <p className="pt-4 font-semibold text-lg text-center">
               {props.pokemonName + " #" + (props.pokemonIndex + 1)}
