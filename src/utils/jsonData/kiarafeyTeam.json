@@ -6,7 +6,7 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 2,
+  "badges": 3,
   "lifes": 14,
   "team": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "pokemonName": "CRUXIFANTE",
-      "pokemonIndex": 230,
+      "pokemonIndex": 231,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Usa sus dos cuerpos para mezclar gases. Según parece, en el pasado podían hallarse ejemplares por todos los rincones de Galar.",
       "pokemonMoves": [
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "pokemonName": "FACUNDO",
-      "pokemonIndex": 190,
+      "pokemonName": "MIMI",
+      "pokemonIndex": 34,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Usa sus dos cuerpos para mezclar gases. Según parece, en el pasado podían hallarse ejemplares por todos los rincones de Galar.",
       "pokemonMoves": [

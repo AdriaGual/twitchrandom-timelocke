@@ -6,7 +6,7 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 7,
+  "badges": 8,
   "lifes": 8,
   "team": [
     {
@@ -38,8 +38,8 @@
       ]
     },
     {
-      "pokemonName": "KACHAW",
-      "pokemonIndex": 309,
+      "pokemonName": "CHESTER",
+      "pokemonIndex": 142,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas por todo el cuerpo.",
       "pokemonMoves": [
@@ -122,8 +122,8 @@
       ]
     },
     {
-      "pokemonName": "KKK",
-      "pokemonIndex": 48,
+      "pokemonName": "SALAMANCA",
+      "pokemonIndex": 372,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Es una masa de músculos y, pese a su pequeño tamaño, tiene fuerza de sobra para levantar en brazos a 100 personas.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "WALLY",
-      "pokemonIndex": 80,
+      "pokemonName": "EL BICHOOO",
+      "pokemonIndex": 67,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Por muy sucio o contaminado que esté el río, se adaptan rápido y se multiplican. Poseen una gran fuerza vital.",
       "pokemonMoves": [
