@@ -96,28 +96,28 @@
     {
       "pokemonName": "MIMI",
       "pokemonIndex": 34,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Usa sus dos cuerpos para mezclar gases. Según parece, en el pasado podían hallarse ejemplares por todos los rincones de Galar.",
+      "pokemonHability": "Viscosidad",
+      "pokemonDescription": "Se dice que la felicidad llegará a quien vea un grupo de Clefairy bailando a la luz de la luna llena.",
       "pokemonMoves": [
-        {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
-        },
-        {
-          "moveName": "Vozarrón",
-          "PP": 10,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Gigadrenado",
-          "PP": 5,
-          "type": "Planta"
-        },
         {
           "moveName": "Rayo",
           "PP": 15,
           "type": "Eléctrico"
+        },
+        {
+          "moveName": "Fuerza Bruta",
+          "PP": 5,
+          "type": "Lucha"
+        },
+        {
+          "moveName": "Rayo Aurora",
+          "PP": 20,
+          "type": "Hielo"
+        },
+        {
+          "moveName": "Aromaterapia",
+          "PP": 5,
+          "type": "Planta"
         }
       ]
     },
