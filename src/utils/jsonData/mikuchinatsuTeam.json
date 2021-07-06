@@ -6,7 +6,7 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 4,
+  "badges": 6,
   "lifes": 6,
   "team": [
     {
@@ -38,8 +38,8 @@
       ]
     },
     {
-      "pokemonName": "MASARIP",
-      "pokemonIndex": 291,
+      "pokemonName": "YOYO",
+      "pokemonIndex": 229,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Siempre está rebosante de energía. Por muchas derrotas que acumule, no deja de plantar cara a sus rivales con tal de fortalecerse.",
       "pokemonMoves": [
