@@ -156,24 +156,24 @@
       "pokemonDescription": "Su aspecto poco agraciado hace que no sea muy popular, pero su gran vitalidad resulta de gran interés para la ciencia.",
       "pokemonMoves": [
         {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
-        },
-        {
-          "moveName": "Vozarrón",
-          "PP": 10,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Gigadrenado",
-          "PP": 5,
-          "type": "Planta"
-        },
-        {
-          "moveName": "Rayo",
+          "moveName": "Puño Trueno",
           "PP": 15,
           "type": "Eléctrico"
+        },
+        {
+          "moveName": "Ventisca",
+          "PP": 5,
+          "type": "Hielo"
+        },
+        {
+          "moveName": "Enfado",
+          "PP": 10,
+          "type": "Dragón"
+        },
+        {
+          "moveName": "Protección",
+          "PP": 10,
+          "type": "Normal"
         }
       ]
     }
