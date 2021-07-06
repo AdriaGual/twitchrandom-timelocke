@@ -6,12 +6,12 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 3,
-  "lifes": 11,
+  "badges": 4,
+  "lifes": 7,
   "team": [
     {
       "pokemonName": "HAPIMIL",
-      "pokemonIndex": 187,
+      "pokemonIndex": 188,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Skiploom florece cuando la temperatura llega a 18 °C. La apertura de los pétalos varía según la temperatura que haga. Por este motivo, la gente lo usa a veces a modo de termómetro.",
       "pokemonMoves": [
@@ -38,8 +38,8 @@
       ]
     },
     {
-      "pokemonName": "KING DADDY",
-      "pokemonIndex": 32,
+      "pokemonName": "PANSON",
+      "pokemonIndex": 259,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más absoluta.",
       "pokemonMoves": [
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "pokemonName": "MAMADISIMO",
-      "pokemonIndex": 65,
+      "pokemonName": "PARMESANO",
+      "pokemonIndex": 256,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Es una masa de músculos y, pese a su pequeño tamaño, tiene fuerza de sobra para levantar en brazos a 100 personas.",
       "pokemonMoves": [
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "pokemonName": "ARMANDO",
-      "pokemonIndex": 346,
+      "pokemonName": "TYRANDE",
+      "pokemonIndex": 2,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Este Pokémon se regeneró a partir de un fósil. Habitaba en los mares de hace cien millones de años. Atrapaba a sus presas con sus dos pinzas.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "MOCHI",
-      "pokemonIndex": 172,
+      "pokemonName": "VERGOTA",
+      "pokemonIndex": 29,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "A veces se desploman al suelo tras agotar su suministro eléctrico interno, pero basta una pequeña batería para reanimarlos.",
       "pokemonMoves": [

@@ -10,42 +10,42 @@ function TopCut() {
       seeds: [
         {
           id: 1,
-          date: "Miércoles, 14 de Julio",
+          date: "Viernes, 9 de Julio",
           teams: [{ name: "Shepard" }, { name: "YastMe" }],
         },
         {
           id: 2,
-          date: "Miércoles, 14 de Julio",
+          date: "Viernes, 9 de Julio",
           teams: [{ name: "Anuhiu" }, { name: "Laura Pipono" }],
         },
         {
           id: 3,
-          date: "Miércoles, 14 de Julio",
+          date: "Viernes, 9 de Julio",
           teams: [{ name: "Sharkness" }, { name: "Miku" }],
         },
         {
           id: 3,
-          date: "Miércoles, 14 de Julio",
+          date: "Viernes, 9 de Julio",
           teams: [{ name: "Fran" }, { name: "Hatosito" }],
         },
         {
           id: 1,
-          date: "Jueves, 15 de Julio",
+          date: "Viernes, 9 de Julio",
           teams: [{ name: "Kiara" }, { name: "Nia" }],
         },
         {
           id: 2,
-          date: "Jueves, 15 de Julio",
+          date: "Viernes, 9 de Julio",
           teams: [{ name: "Patt" }, { name: "Zigred" }],
         },
         {
           id: 3,
-          date: "Jueves, 15 de Julio",
+          date: "Viernes, 9 de Julio",
           teams: [{ name: "Zetaeme" }, { name: "Arocet" }],
         },
         {
           id: 3,
-          date: "Jueves, 15 de Julio",
+          date: "Viernes, 9 de Julio",
           teams: [{ name: "Maty" }, { name: "Ken" }],
         },
       ],

@@ -6,8 +6,8 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 4,
-  "lifes": 14,
+  "badges": 6,
+  "lifes": 13,
   "team": [
     {
       "pokemonName": "ARDILLO",
@@ -39,7 +39,7 @@
     },
     {
       "pokemonName": "PIOPIO",
-      "pokemonIndex": 16,
+      "pokemonIndex": 17,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Construye sus nidos en acantilados escarpados. Aprovecha la brisa marina para elevarse hacia el inmenso cielo y planear.",
       "pokemonMoves": [
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "pokemonName": "???",
-      "pokemonIndex": 129,
+      "pokemonName": "NARUTO",
+      "pokemonIndex": 290,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Si se siente amenazado, segrega un líquido dulce por la cabeza. El sirope elaborado con ese líquido resulta delicioso untado en pan.",
       "pokemonMoves": [
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "pokemonName": "WEVOKINDE",
-      "pokemonIndex": 281,
+      "pokemonName": "CACHINBERO",
+      "pokemonIndex": 8,
       "pokemonHability": "SEBO",
       "pokemonDescription": "Tiene la capacidad de predecir el futuro. Para proteger a su Entrenador, emplea hasta la última gota de su poder psíquico.",
       "pokemonMoves": [
@@ -122,8 +122,8 @@
       ]
     },
     {
-      "pokemonName": "ELMECHAS",
-      "pokemonIndex": 156,
+      "pokemonName": "CASEROX",
+      "pokemonIndex": 168,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas por todo el cuerpo.",
       "pokemonMoves": [
