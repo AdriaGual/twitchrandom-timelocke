@@ -6,7 +6,7 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 3,
+  "badges": 8,
   "lifes": 14,
   "team": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "pokemonName": "BAGO",
-      "pokemonIndex": 371,
+      "pokemonIndex": 372,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Lo recubre una dura coraza de tejido óseo. En el interior, acumula energía de cara a la evolución.",
       "pokemonMoves": [
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "pokemonName": "ELLIE",
-      "pokemonIndex": 228,
+      "pokemonName": "MILOTIC",
+      "pokemonIndex": 349,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Remata a sus rivales exhalando llamas tóxicas. Si abate una presa, la compartirá a partes iguales con el resto de la manada.",
       "pokemonMoves": [
