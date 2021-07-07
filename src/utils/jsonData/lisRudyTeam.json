@@ -1,12 +1,12 @@
 {
   "playerName": "Nia",
   "playerTwitch": "https://www.twitch.tv/niacosplay",
-  "playerImageUrl": "https://pbs.twimg.com/profile_images/1374913568408240129/5Ya_fppk_400x400.jpg",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1411379170316324869/JnRvLKxB_400x400.jpg",
   "hasCoach": false,
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 6,
+  "badges": 8,
   "lifes": 13,
   "team": [
     {
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "pokemonName": "NARUTO",
-      "pokemonIndex": 290,
+      "pokemonName": "GEX",
+      "pokemonIndex": 253,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Si se siente amenazado, segrega un líquido dulce por la cabeza. El sirope elaborado con ese líquido resulta delicioso untado en pan.",
       "pokemonMoves": [
@@ -122,8 +122,8 @@
       ]
     },
     {
-      "pokemonName": "CASEROX",
-      "pokemonIndex": 168,
+      "pokemonName": "PETANCA",
+      "pokemonIndex": 109,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas por todo el cuerpo.",
       "pokemonMoves": [
