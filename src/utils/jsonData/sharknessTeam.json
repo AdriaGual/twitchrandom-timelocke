@@ -12,148 +12,148 @@
     {
       "pokemonName": "SACOPAPAS",
       "pokemonIndex": 296,
-      "pokemonHability": "Intimidación",
+      "pokemonHability": "Vista Lince",
       "pokemonDescription": "Adora las competiciones de fuerza, pero el respeto y la cortesía hacia sus adversarios son muy importantes para este noble Pokémon.",
       "pokemonMoves": [
-        {
-          "moveName": "Detección",
-          "PP": 5,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Vel. Extrema",
-          "PP": 5,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Viento Plata",
-          "PP": 5,
-          "type": "Bicho"
-        },
-        {
-          "moveName": "Hipnosis",
-          "PP": 20,
-          "type": "Psíquico"
-        }
-      ]
-    },
-    {
-      "pokemonName": "CHEPAR",
-      "pokemonIndex": 259,
-      "pokemonHability": "Intimidación",
-      "pokemonDescription": "El cuerpo de Marshtomp está cubierto por una fina película pegajosa gracias a la cual puede vivir en tierra. Cuando la marea está baja, a este Pokémon le encanta jugar en el fango.",
-      "pokemonMoves": [
-        {
-          "moveName": "Onda Trueno",
-          "PP": 20,
-          "type": "Eléctrico"
-        },
-        {
-          "moveName": "Triturar",
-          "PP": 15,
-          "type": "Siniestro"
-        },
-        {
-          "moveName": "Sofoco",
-          "PP": 5,
-          "type": "Fuego"
-        },
-        {
-          "moveName": "Mordisco",
-          "PP": 25,
-          "type": "Siniestro"
-        }
-      ]
-    },
-    {
-      "pokemonName": "HIDRA",
-      "pokemonIndex": 84,
-      "pokemonHability": "Intimidación",
-      "pokemonDescription": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más absoluta.",
-      "pokemonMoves": [
-        {
-          "moveName": "Arañazo",
-          "PP": 30,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Carámbano",
-          "PP": 30,
-          "type": "Normal"
-        },
         {
           "moveName": "Fuerza Bruta",
           "PP": 5,
           "type": "Lucha"
         },
         {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
-        }
-      ]
-    },
-    {
-      "pokemonName": "OROCHIMARU",
-      "pokemonIndex": 23,
-      "pokemonHability": "Intimidación",
-      "pokemonDescription": "Se han llegado a identificar hasta seis variaciones distintas de los espeluznantes dibujos de su piel.",
-      "pokemonMoves": [
-        {
-          "moveName": "Onda Trueno",
-          "PP": 20,
-          "type": "Eléctrico"
-        },
-        {
-          "moveName": "Triturar",
+          "moveName": "Doble Rayo",
           "PP": 15,
-          "type": "Siniestro"
+          "type": "Bicho"
         },
         {
-          "moveName": "Sofoco",
+          "moveName": "Tambor",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Vel. Extrema",
           "PP": 5,
-          "type": "Fuego"
-        },
-        {
-          "moveName": "Mordisco",
-          "PP": 25,
-          "type": "Siniestro"
+          "type": "Normal"
         }
       ]
     },
     {
-      "pokemonName": "PULGARCITO",
-      "pokemonIndex": 50,
-      "pokemonHability": "Intimidación",
-      "pokemonDescription": "Si un Diglett excava un terreno, lo deja perfectamente arado y preparado para sembrarlo.",
+      "pokemonName": "CHEPAR",
+      "pokemonIndex": 259,
+      "pokemonHability": "Sombra Trampa",
+      "pokemonDescription": "Swampert es muy fuerte. Puede arrastrar una roca que pese más de una tonelada sin ningún problema. Este Pokémon tiene el sentido de la vista muy desarrollado. Es capaz de ver hasta en aguas cenagosas.",
       "pokemonMoves": [
+        {
+          "moveName": "Somnífero",
+          "PP": 15,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Surf",
+          "PP": 15,
+          "type": "Agua"
+        },
+        {
+          "moveName": "Planta Feroz",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Psicoataque",
+          "PP": 5,
+          "type": "Psíquico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "BEZOYA",
+      "pokemonIndex": 349,
+      "pokemonHability": "Clorofila",
+      "pokemonDescription": "Se dice que es el Pokémon más bello. Ha sido la fuente de inspiración de un sinnúmero de artistas.",
+      "pokemonMoves": [
+        {
+          "moveName": "Surf",
+          "PP": 15,
+          "type": "Agua"
+        },
         {
           "moveName": "Ventisca",
           "PP": 5,
           "type": "Hielo"
         },
         {
-          "moveName": "Patada Baja",
-          "PP": 20,
-          "type": "Lucha"
-        },
-        {
-          "moveName": "Tinieblas",
+          "moveName": "Fuego Fatuo",
           "PP": 15,
-          "type": "Fantasma"
+          "type": "Fuego"
         },
         {
-          "moveName": "Cerca",
-          "PP": 10,
-          "type": "Psíquico"
+          "moveName": "Armad. Ácida",
+          "PP": 20,
+          "type": "Veneno"
         }
       ]
     },
     {
-      "pokemonName": "GAMABUNTA",
-      "pokemonIndex": 2,
-      "pokemonHability": "Intimidación",
-      "pokemonDescription": "Vive en lo más profundo del bosque. Utiliza la hoja de la cabeza como flauta para emitir un sonido perturbador.",
+      "pokemonName": "ACE",
+      "pokemonIndex": 156,
+      "pokemonHability": "Absorbe Agua",
+      "pokemonDescription": "Typhlosion se oculta tras un trémulo haz de calor que crea mediante sus intensas y sofocantes llamaradas. Este Pokémon causa explosiones de fuego que reducen todo a cenizas.",
+      "pokemonMoves": [
+        {
+          "moveName": "Sol Matinal",
+          "PP": 5,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Lanzallamas",
+          "PP": 15,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Rayo Hielo",
+          "PP": 10,
+          "type": "Hielo"
+        },
+        {
+          "moveName": "Paralizador",
+          "PP": 30,
+          "type": "Planta"
+        }
+      ]
+    },
+    {
+      "pokemonName": "PULGARCITO",
+      "pokemonIndex": 50,
+      "pokemonHability": "Energía Pura",
+      "pokemonDescription": "Un trío de Diglett. Causa enormes terremotos al cavar en el subsuelo a profundidades de hasta 100 km.",
+      "pokemonMoves": [
+        {
+          "moveName": "Magnitud",
+          "PP": 30,
+          "type": "Tierra"
+        },
+        {
+          "moveName": "Puño Meteoro",
+          "PP": 10,
+          "type": "Acero"
+        },
+        {
+          "moveName": "Garra dragón",
+          "PP": 15,
+          "type": "Dragón"
+        },
+        {
+          "moveName": "Avalancha",
+          "PP": 10,
+          "type": "Roca"
+        }
+      ]
+    },
+    {
+      "pokemonName": "TESLA",
+      "pokemonIndex": 81,
+      "pokemonHability": "Inmunidad",
+      "pokemonDescription": "Este Pokémon, surgido de la unión de tres Magnemite, genera potentes ondas de radio con las que examina el entorno.",
       "pokemonMoves": [
         {
           "moveName": "Rayo",
@@ -161,19 +161,19 @@
           "type": "Eléctrico"
         },
         {
-          "moveName": "Electrocañón",
-          "PP": 5,
-          "type": "Eléctrico"
-        },
-        {
-          "moveName": "Psíquico",
+          "moveName": "Agua Lodosa",
           "PP": 10,
-          "type": "Psíquico"
+          "type": "Agua"
         },
         {
-          "moveName": "Sol matinal",
-          "PP": 5,
-          "type": "Normal"
+          "moveName": "Bola Sombra",
+          "PP": 15,
+          "type": "Fantasma"
+        },
+        {
+          "moveName": "Paranormal",
+          "PP": 20,
+          "type": "Psíquico"
         }
       ]
     }
