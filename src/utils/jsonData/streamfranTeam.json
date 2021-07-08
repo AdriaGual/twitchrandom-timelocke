@@ -12,7 +12,7 @@
     {
       "pokemonName": "MOTOTREECO",
       "pokemonIndex": 253,
-      "pokemonHability": "Mar Llamas",
+      "pokemonHability": "Presión",
       "pokemonDescription": "Las hojas que le salen a Sceptile del cuerpo tienen unos bordes muy afilados. Este Pokémon es muy ágil, va saltando de rama en rama y se lanza sobre el enemigo por la espalda.",
       "pokemonMoves": [
         {
@@ -31,106 +31,106 @@
           "type": "Eléctrico"
         },
         {
-          "moveName": "Tumba rocas",
-          "PP": 15,
-          "type": "Roca"
+          "moveName": "Psicoataque",
+          "PP": 5,
+          "type": "Psíquico"
         }
       ]
     },
     {
       "pokemonName": "WURMPLE",
       "pokemonIndex": 5,
-      "pokemonHability": "Bucle Aire",
+      "pokemonHability": "Velo Agua",
       "pokemonDescription": "Escupe un fuego tan caliente que funde las rocas. Causa incendios forestales sin querer.",
       "pokemonMoves": [
         {
-          "moveName": "Impresionar",
-          "PP": 30,
-          "type": "Fantasma"
+          "moveName": "Huesomerang",
+          "PP": 10,
+          "type": "Tierra"
         },
         {
-          "moveName": "Megapuño",
-          "PP": 20,
-          "type": "Normal"
+          "moveName": "Vuelo",
+          "PP": 15,
+          "type": "Volador"
         },
         {
-          "moveName": "Descanso",
+          "moveName": "Anillo Ígneo",
+          "PP": 5,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Psíquico",
           "PP": 10,
           "type": "Psíquico"
-        },
-        {
-          "moveName": "Onda ígnea",
-          "PP": 10,
-          "type": "Fuego"
         }
       ]
     },
     {
       "pokemonName": "BAGO",
       "pokemonIndex": 372,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Lo recubre una dura coraza de tejido óseo. En el interior, acumula energía de cara a la evolución.",
+      "pokemonHability": "Humo Blanco",
+      "pokemonDescription": "Un Pokémon poco común que, tras desear con todas sus fuerzas poder volar, consiguió un cuerpo alado al evolucionar.",
       "pokemonMoves": [
         {
-          "moveName": "Empujón",
+          "moveName": "Dragoaliento",
           "PP": 20,
+          "type": "Dragón"
+        },
+        {
+          "moveName": "Pico Taladro",
+          "PP": 20,
+          "type": "Volador"
+        },
+        {
+          "moveName": "Demolición",
+          "PP": 15,
           "type": "Lucha"
         },
         {
-          "moveName": "Cola Férrea",
-          "PP": 15,
-          "type": "Acero"
+          "moveName": "Tajo Cruzado",
+          "PP": 5,
+          "type": "Lucha"
+        }
+      ]
+    },
+    {
+      "pokemonName": "RAYQUAZA",
+      "pokemonIndex": 349,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Se dice que es el Pokémon más bello. Ha sido la fuente de inspiración de un sinnúmero de artistas.",
+      "pokemonMoves": [
+        {
+          "moveName": "Llamarada",
+          "PP": 5,
+          "type": "Fuego"
         },
         {
-          "moveName": "Ácido",
-          "PP": 30,
+          "moveName": "Onda ígnea",
+          "PP": 10,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Tóxico",
+          "PP": 10,
           "type": "Veneno"
         },
         {
-          "moveName": "Picotazo",
-          "PP": 35,
-          "type": "Volador"
-        }
-      ]
-    },
-    {
-      "pokemonName": "MILOTIC",
-      "pokemonIndex": 349,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Remata a sus rivales exhalando llamas tóxicas. Si abate una presa, la compartirá a partes iguales con el resto de la manada.",
-      "pokemonMoves": [
-        {
-          "moveName": "Hidrocañon",
-          "PP": 5,
+          "moveName": "Surf",
+          "PP": 15,
           "type": "Agua"
-        },
-        {
-          "moveName": "Doble Rayo",
-          "PP": 15,
-          "type": "Bicho"
-        },
-        {
-          "moveName": "Hipercolmillo",
-          "PP": 15,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Destructor",
-          "PP": 35,
-          "type": "Normal"
         }
       ]
     },
     {
-      "pokemonName": "GENGAR",
+      "pokemonName": "OCESITO",
       "pokemonIndex": 93,
       "pokemonHability": "Intimidación",
       "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
       "pokemonMoves": [
         {
-          "moveName": "Onda Trueno",
-          "PP": 20,
-          "type": "Eléctrico"
+          "moveName": "Excavar",
+          "PP": 10,
+          "type": "Tierra"
         },
         {
           "moveName": "Triturar",
@@ -143,37 +143,37 @@
           "type": "Fuego"
         },
         {
-          "moveName": "Mordisco",
-          "PP": 25,
-          "type": "Siniestro"
+          "moveName": "Paranormal",
+          "PP": 20,
+          "type": "Psíquico"
         }
       ]
     },
     {
       "pokemonName": "TANKGASKAN",
       "pokemonIndex": 114,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Le apasiona cantar. Su cuerpo suave y esponjoso desprende un aroma ligeramente dulce.",
+      "pokemonHability": "Levitación",
+      "pokemonDescription": "Aunque lleve una cría en el marsupio, su juego de pies no pierde ligereza. Abruma al rival con ráfagas de ágiles puñetazos.",
       "pokemonMoves": [
         {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
-        },
-        {
-          "moveName": "Vozarrón",
+          "moveName": "Triataque",
           "PP": 10,
           "type": "Normal"
         },
         {
-          "moveName": "Gigadrenado",
-          "PP": 5,
-          "type": "Planta"
+          "moveName": "Bomba Huevo",
+          "PP": 20,
+          "type": "Normal"
         },
         {
-          "moveName": "Rayo",
+          "moveName": "Fuerza",
           "PP": 15,
-          "type": "Eléctrico"
+          "type": "Normal"
+        },
+        {
+          "moveName": "Surf",
+          "PP": 15,
+          "type": "Agua"
         }
       ]
     }
