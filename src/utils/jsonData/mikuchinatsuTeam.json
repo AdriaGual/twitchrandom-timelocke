@@ -10,142 +10,142 @@
   "lifes": 6,
   "team": [
     {
-      "pokemonName": "GLUTENFREE",
-      "pokemonIndex": 11,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Se lo considera un símbolo de longevidad. Los ejemplares más ancianos tienen musgo sobre el caparazón.",
+      "pokemonName": "THANOS",
+      "pokemonIndex": 333,
+      "pokemonHability": "Sebo",
+      "pokemonDescription": "Mientras vuela pausadamente, emite un bello trino que cautiva a todo el que lo oye.",
       "pokemonMoves": [
         {
-          "moveName": "Megacuerno",
-          "PP": 10,
+          "moveName": "Viento Plata",
+          "PP": 5,
           "type": "Bicho"
         },
         {
-          "moveName": "Vozarrón",
+          "moveName": "Rayo Solar",
           "PP": 10,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Gigadrenado",
-          "PP": 5,
           "type": "Planta"
         },
         {
-          "moveName": "Rayo",
-          "PP": 15,
-          "type": "Eléctrico"
+          "moveName": "Resplandor",
+          "PP": 5,
+          "type": "Psíquico"
+        },
+        {
+          "moveName": "Hiperrayo",
+          "PP": 5,
+          "type": "Normal"
         }
       ]
     },
     {
       "pokemonName": "YOYO",
       "pokemonIndex": 229,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Siempre está rebosante de energía. Por muchas derrotas que acumule, no deja de plantar cara a sus rivales con tal de fortalecerse.",
+      "pokemonHability": "Bucle Aire",
+      "pokemonDescription": "Se deja ver en la superficie del mar cuando hay tormentas. Si se encuentra con Dragonite, tendrá lugar una violenta pelea.",
       "pokemonMoves": [
         {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
+          "moveName": "Daño Secreto",
+          "PP": 20,
+          "type": "Normal"
         },
         {
-          "moveName": "Vozarrón",
+          "moveName": "Salpicar",
+          "PP": 5,
+          "type": "Agua"
+        },
+        {
+          "moveName": "Patada Ígnea",
+          "PP": 10,
+          "type": "Fuego"
+        },
+        {
+          "moveName": "Surf",
+          "PP": 15,
+          "type": "Agua"
+        }
+      ]
+    },
+    {
+      "pokemonName": "SUELLOW",
+      "pokemonIndex": 276,
+      "pokemonHability": "Punto Tóxico",
+      "pokemonDescription": "Swellow vuela muy alto dibujando elegantes arcos en el cielo. Este Pokémon se sumerge en el agua con rapidez y eficacia en cuanto detecta una presa. Con las garras, atrapa a la desdichada víctima y no la deja huir.",
+      "pokemonMoves": [
+        {
+          "moveName": "Somnífero",
+          "PP": 15,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Bomba Lodo",
+          "PP": 10,
+          "type": "Veneno"
+        },
+        {
+          "moveName": "Venganza",
           "PP": 10,
           "type": "Normal"
         },
         {
-          "moveName": "Gigadrenado",
+          "moveName": "Electrocañón",
           "PP": 5,
-          "type": "Planta"
-        },
-        {
-          "moveName": "Rayo",
-          "PP": 15,
           "type": "Eléctrico"
         }
       ]
     },
     {
-      "pokemonName": "SERGI",
-      "pokemonIndex": 25,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Vivir bajo tierra durante tanto tiempo lo ha dejado prácticamente ciego. Las antenas que tiene le ayudan a orientarse.",
+      "pokemonName": "MIKRUSH",
+      "pokemonIndex": 64,
+      "pokemonHability": "Dicha",
+      "pokemonDescription": "Posee una capacidad intelectual fuera de lo común que le permite recordar todo lo sucedido desde el instante de su nacimiento.",
       "pokemonMoves": [
         {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
-        },
-        {
-          "moveName": "Vozarrón",
-          "PP": 10,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Gigadrenado",
+          "moveName": "Fuegosagrado",
           "PP": 5,
-          "type": "Planta"
+          "type": "Fuego"
         },
         {
-          "moveName": "Rayo",
+          "moveName": "Placaje Eléctrico",
           "PP": 15,
           "type": "Eléctrico"
+        },
+        {
+          "moveName": "Aerochorro",
+          "PP": 5,
+          "type": "Volador"
+        },
+        {
+          "moveName": "Manto Espejo",
+          "PP": 20,
+          "type": "Psíquico"
         }
       ]
     },
     {
-      "pokemonName": "CHAD",
-      "pokemonIndex": 120,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "El cuerpo de Marshtomp está cubierto por una fina película pegajosa gracias a la cual puede vivir en tierra. Cuando la marea está baja, a este Pokémon le encanta jugar en el fango.",
+      "pokemonName": "FANTASMIKO",
+      "pokemonIndex": 93,
+      "pokemonHability": "Velo Agua",
+      "pokemonDescription": "Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.",
       "pokemonMoves": [
         {
-          "moveName": "Megacuerno",
+          "moveName": "Excavar",
           "PP": 10,
-          "type": "Bicho"
+          "type": "Tierra"
         },
         {
-          "moveName": "Vozarrón",
-          "PP": 10,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Gigadrenado",
-          "PP": 5,
+          "moveName": "Brazo Pincho",
+          "PP": 15,
           "type": "Planta"
         },
         {
-          "moveName": "Rayo",
-          "PP": 15,
-          "type": "Eléctrico"
-        }
-      ]
-    },
-    {
-      "pokemonName": "PIOLIN",
-      "pokemonIndex": 144,
-      "pokemonHability": "Mar Llamas",
-      "pokemonDescription": "Su aspecto poco agraciado hace que no sea muy popular, pero su gran vitalidad resulta de gran interés para la ciencia.",
-      "pokemonMoves": [
-        {
-          "moveName": "Megacuerno",
-          "PP": 10,
-          "type": "Bicho"
-        },
-        {
-          "moveName": "Vozarrón",
-          "PP": 10,
-          "type": "Normal"
-        },
-        {
-          "moveName": "Gigadrenado",
+          "moveName": "Psicoataque",
           "PP": 5,
-          "type": "Planta"
+          "type": "Psíquico"
         },
         {
-          "moveName": "Rayo",
-          "PP": 15,
-          "type": "Eléctrico"
+          "moveName": "Rayo Hielo",
+          "PP": 10,
+          "type": "Hielo"
         }
       ]
     },
@@ -166,9 +166,9 @@
           "type": "Hielo"
         },
         {
-          "moveName": "Enfado",
-          "PP": 10,
-          "type": "Dragón"
+          "moveName": "Inversión",
+          "PP": 15,
+          "type": "Lucha"
         },
         {
           "moveName": "Protección",
