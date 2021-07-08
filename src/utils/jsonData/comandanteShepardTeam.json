@@ -6,12 +6,12 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 3,
-  "lifes": 13,
+  "badges": 7,
+  "lifes": 11,
   "team": [
     {
       "pokemonName": "PU TO",
-      "pokemonIndex": 203,
+      "pokemonIndex": 204,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Usa sus dos cuerpos para mezclar gases. Según parece, en el pasado podían hallarse ejemplares por todos los rincones de Galar.",
       "pokemonMoves": [
@@ -38,8 +38,8 @@
       ]
     },
     {
-      "pokemonName": "PARASECT",
-      "pokemonIndex": 46,
+      "pokemonName": "CAT BOY",
+      "pokemonIndex": 52,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Usa sus dos cuerpos para mezclar gases. Según parece, en el pasado podían hallarse ejemplares por todos los rincones de Galar.",
       "pokemonMoves": [
@@ -67,7 +67,7 @@
     },
     {
       "pokemonName": "ANUHIU",
-      "pokemonIndex": 280,
+      "pokemonIndex": 281,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Usa sus dos cuerpos para mezclar gases. Según parece, en el pasado podían hallarse ejemplares por todos los rincones de Galar.",
       "pokemonMoves": [
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "pokemonName": "MEIEFF",
-      "pokemonIndex": 4,
+      "pokemonName": "CATACLISMO",
+      "pokemonIndex": 247,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Usa sus dos cuerpos para mezclar gases. Según parece, en el pasado podían hallarse ejemplares por todos los rincones de Galar.",
       "pokemonMoves": [
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "pokemonName": "CHARNE",
+      "pokemonName": "CHARNEVS",
       "pokemonIndex": 129,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Usa sus dos cuerpos para mezclar gases. Según parece, en el pasado podían hallarse ejemplares por todos los rincones de Galar.",
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "PATT",
-      "pokemonIndex": 327,
+      "pokemonName": "MEIEFF",
+      "pokemonIndex": 5,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Usa sus dos cuerpos para mezclar gases. Según parece, en el pasado podían hallarse ejemplares por todos los rincones de Galar.",
       "pokemonMoves": [

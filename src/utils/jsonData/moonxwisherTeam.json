@@ -6,12 +6,12 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 4,
-  "lifes": 8,
+  "badges": 6,
+  "lifes": 7,
   "team": [
     {
       "pokemonName": "NURIA",
-      "pokemonIndex": 63,
+      "pokemonIndex": 64,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "pokemonName": "FURRITO96",
-      "pokemonIndex": 161,
+      "pokemonName": "YANKEE",
+      "pokemonIndex": 21,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "pokemonName": "LUIS",
-      "pokemonIndex": 129,
+      "pokemonName": "COMECOJONE",
+      "pokemonIndex": 229,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
@@ -122,8 +122,8 @@
       ]
     },
     {
-      "pokemonName": "JOSEFINA",
-      "pokemonIndex": 60,
+      "pokemonName": "AITORETTO",
+      "pokemonIndex": 104,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "EKIS DE",
-      "pokemonIndex": 23,
+      "pokemonName": "SWELLOW",
+      "pokemonIndex": 276,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [

@@ -6,12 +6,12 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 4,
-  "lifes": 13,
+  "badges": 8,
+  "lifes": 12,
   "team": [
     {
       "pokemonName": "KORITO",
-      "pokemonIndex": 155,
+      "pokemonIndex": 156,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Cyndaquil se protege soltando llamas por el lomo. Cuando está enfadado, las llamas son fieras, pero, si está cansado, solo consigue echar algunas chispas que no llegan a cuajar en una completa combustión.",
       "pokemonMoves": [
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "pokemonName": "ATHENA",
-      "pokemonIndex": 201,
+      "pokemonName": "NO DRAGON",
+      "pokemonIndex": 5,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Suelen ir en grupo. Templan su paciencia jugando a empujarse los unos a los otros.",
       "pokemonMoves": [
@@ -122,8 +122,8 @@
       ]
     },
     {
-      "pokemonName": "VIVI",
-      "pokemonIndex": 43,
+      "pokemonName": "ROMPETIBIA",
+      "pokemonIndex": 159,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Es el Pokémon más débil y patético que existe, con una fuerza y velocidad prácticamente nulas.",
       "pokemonMoves": [
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "pokemonName": "VAQUERA",
-      "pokemonIndex": 38,
+      "pokemonName": "BELLEZON",
+      "pokemonIndex": 181,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Es el Pokémon más débil y patético que existe, con una fuerza y velocidad prácticamente nulas.",
       "pokemonMoves": [

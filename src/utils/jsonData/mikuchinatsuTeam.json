@@ -6,7 +6,7 @@
   "coachName": "",
   "coachTwitch": "",
   "coachImageUrl": "",
-  "badges": 6,
+  "badges": 8,
   "lifes": 6,
   "team": [
     {
@@ -122,8 +122,8 @@
       ]
     },
     {
-      "pokemonName": "SUELOW",
-      "pokemonIndex": 276,
+      "pokemonName": "PIOLIN",
+      "pokemonIndex": 144,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Su aspecto poco agraciado hace que no sea muy popular, pero su gran vitalidad resulta de gran interés para la ciencia.",
       "pokemonMoves": [
