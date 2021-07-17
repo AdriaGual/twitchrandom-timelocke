@@ -2,7 +2,7 @@ import React from "react";
 import Profile from "./Profile/Profile";
 import Badges from "./Badges/Badges";
 import Pokemon from "./Pokemon/Pokemon";
-import Lifes from "./Lifes/Lifes";
+import Time from "./Time/Time";
 
 function Card(props) {
   return (
@@ -44,10 +44,10 @@ function Card(props) {
       </div>
       <div class="grid grid-cols-5 px-2 md:px-8 lg:px-20 pt-8">
         <div class="col-span-2">
-          <Badges badges={props.data.badges}></Badges>
+          <Time time={props.data.time}></Time>
         </div>
         <div class="col-span-3">
-          <Lifes lifes={props.data.lifes}></Lifes>
+          <Badges badges={props.data.badges}></Badges>
         </div>
       </div>
     </div>
