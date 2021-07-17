@@ -1,0 +1,13 @@
+{
+  "playerName": "Sweet Anaïs",
+  "playerTwitch": "https://www.twitch.tv/sweetanais",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1410520904879198209/6qdz32om_400x400.jpg",
+  "hasCoach": false,
+  "coachName": "",
+  "coachTwitch": "",
+  "coachImageUrl": "",
+  "badges": 0,
+  "lifes": 20,
+  "team": [
+  ]
+}

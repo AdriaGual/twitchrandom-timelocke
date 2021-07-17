@@ -1,0 +1,13 @@
+{
+  "playerName": "Alejandro Guirado",
+  "playerTwitch": "https://www.twitch.tv/aguirado92",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1339559017815961604/ggBUwP6H_400x400.jpg",
+  "hasCoach": false,
+  "coachName": "",
+  "coachTwitch": "",
+  "coachImageUrl": "",
+  "badges": 0,
+  "lifes": 20,
+  "team": [
+  ]
+}

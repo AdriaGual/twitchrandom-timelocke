@@ -1,0 +1,13 @@
+{
+  "playerName": "Luci Koneko",
+  "playerTwitch": "https://www.twitch.tv/Luci_Koneko",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1353181260198400006/mEmgS1wH_400x400.jpg",
+  "hasCoach": false,
+  "coachName": "",
+  "coachTwitch": "",
+  "coachImageUrl": "",
+  "badges": 0,
+  "lifes": 20,
+  "team": [
+  ]
+}

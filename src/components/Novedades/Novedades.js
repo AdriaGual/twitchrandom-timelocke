@@ -19,12 +19,12 @@ function Novedades() {
             <div class="grid grid-cols-1 lg:grid-cols-2 py-4">
               <TwitterTimelineEmbed
                 sourceType="profile"
-                screenName="SharknessVS"
+                screenName="RandomLocke"
                 options={{ height: 800 }}
               />
               <TwitterTimelineEmbed
                 sourceType="profile"
-                screenName="ZETAEME_YOUTUBE"
+                screenName="gbatalla8"
                 options={{ height: 800 }}
               />
             </div>

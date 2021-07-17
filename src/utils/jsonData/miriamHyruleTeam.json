@@ -1,0 +1,13 @@
+{
+  "playerName": "Entrenadora Pony",
+  "playerTwitch": "https://www.twitch.tv/ponycornyo",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1414370045266903050/HeR51jKl_400x400.jpg",
+  "hasCoach": false,
+  "coachName": "",
+  "coachTwitch": "",
+  "coachImageUrl": "",
+  "badges": 0,
+  "lifes": 20,
+  "team": [
+  ]
+}

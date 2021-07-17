@@ -1,0 +1,13 @@
+{
+  "playerName": "Imocade",
+  "playerTwitch": "https://www.twitch.tv/imocade",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1379528267754057729/qFHxa11H_400x400.jpg",
+  "hasCoach": false,
+  "coachName": "",
+  "coachTwitch": "",
+  "coachImageUrl": "",
+  "badges": 0,
+  "lifes": 20,
+  "team": [
+  ]
+}

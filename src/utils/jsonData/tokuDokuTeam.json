@@ -1,0 +1,13 @@
+{
+  "playerName": "Toku Doku",
+  "playerTwitch": "https://www.twitch.tv/toku_doku",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1378631691535839233/7ZPg0s-P_400x400.jpg",
+  "hasCoach": false,
+  "coachName": "",
+  "coachTwitch": "",
+  "coachImageUrl": "",
+  "badges": 0,
+  "lifes": 20,
+  "team": [
+  ]
+}
