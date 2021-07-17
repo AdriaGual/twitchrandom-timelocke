@@ -1,6 +1,6 @@
-# PokeRandom Tournament
+# TwitchRandom TimeLocke
 
-Este proyecto se ha creado con el fin de poder dar visibilidad al PokeRandom Tournament, viendo la progresión y mejora de los diferentes equipos de los participantes
+Este proyecto se ha creado con el fin de poder dar visibilidad al TwitchRandom TimeLocke, viendo la progresión y mejora de los diferentes equipos de los participantes
 
 ## Scripts
 
@@ -77,4 +77,4 @@ type: Tipo del ataque en String, las opciones són:
 - Dragón
 - Siniestro
 - Acero
-- Hada (en principio NO deberían existir en el PokeRandom Tournament pero lo he preparado por si en un futuro se quisiera hacer un PokeRandom Tournament 2 con hadas)
+- Hada (en principio NO deberían existir en el TwitchRandom TimeLocke pero lo he preparado por si en un futuro se quisiera hacer un TwitchRandom TimeLocke 2 con hadas)

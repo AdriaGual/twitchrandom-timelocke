@@ -15,12 +15,12 @@ function App() {
           <Route exact path="/">
             <Helmet>
               <meta charSet="utf-8" />
-              <title>PokeRandom Tournament</title>
+              <title>TwitchRandom TimeLocke</title>
               <meta
                 name="description"
-                content="Todos los equipos del Pokerandom Tournament 2021."
+                content="Todos los equipos del TwitchRandom TimeLocke 2021."
               />
-              <link rel="canonical" href="http://pokerandomTournament.ga" />
+              <link rel="canonical" href="http://twitchrandom-timelocke.ga" />
             </Helmet>
             <TopBar></TopBar>
             <Main></Main>
@@ -28,12 +28,12 @@ function App() {
           <Route exact path="/topCut">
             <Helmet>
               <meta charSet="utf-8" />
-              <title>PokeRandom Tournament</title>
+              <title>TwitchRandom TimeLocke</title>
               <meta
                 name="description"
-                content="Todos los equipos del Pokerandom Tournament 2021."
+                content="Todos los equipos del TwitchRandom TimeLocke 2021."
               />
-              <link rel="canonical" href="http://pokerandomTournament.ga" />
+              <link rel="canonical" href="http://twitchrandom-timelocke.ga" />
             </Helmet>
             <TopBar></TopBar>
             <TopCut></TopCut>
@@ -41,12 +41,12 @@ function App() {
           <Route exact path="/novedades">
             <Helmet>
               <meta charSet="utf-8" />
-              <title>PokeRandom Tournament</title>
+              <title>TwitchRandom TimeLocke</title>
               <meta
                 name="description"
-                content="Todos los equipos del Pokerandom Tournament 2021."
+                content="Todos los equipos del TwitchRandom TimeLocke 2021."
               />
-              <link rel="canonical" href="http://pokerandomTournament.ga" />
+              <link rel="canonical" href="http://twitchrandom-timelocke.ga" />
             </Helmet>
             <TopBar></TopBar>
             <Novedades></Novedades>
@@ -54,12 +54,12 @@ function App() {
           <Route exact path="/colaboradores">
             <Helmet>
               <meta charSet="utf-8" />
-              <title>PokeRandom Tournament</title>
+              <title>TwitchRandom TimeLocke</title>
               <meta
                 name="description"
-                content="Todos los equipos del Pokerandom Tournament 2021."
+                content="Todos los equipos del TwitchRandom TimeLocke 2021."
               />
-              <link rel="canonical" href="http://pokerandomTournament.ga" />
+              <link rel="canonical" href="http://twitchrandom-timelocke.ga" />
             </Helmet>
             <TopBar></TopBar>
             <Colaboradores></Colaboradores>
