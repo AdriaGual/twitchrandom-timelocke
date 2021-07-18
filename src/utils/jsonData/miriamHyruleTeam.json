@@ -1,11 +1,11 @@
 {
-  "playerName": "Entrenadora Pony",
+  "playerName": "Ponycornio",
   "playerTwitch": "https://www.twitch.tv/ponycornyo",
   "playerImageUrl": "https://pbs.twimg.com/profile_images/1414370045266903050/HeR51jKl_400x400.jpg",
-  "hasCoach": false,
-  "coachName": "",
-  "coachTwitch": "",
-  "coachImageUrl": "",
+  "hasCoach": true,
+  "coachName": "Sir de Lordran",
+  "coachTwitch": "https://www.twitch.tv/srdelordran",
+  "coachImageUrl": "https://pbs.twimg.com/profile_images/1380291762980290573/MVo_h629_400x400.jpg",
   "badges": 0,
   "time": 0,
   "team": [

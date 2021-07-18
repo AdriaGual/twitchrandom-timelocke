@@ -11,42 +11,66 @@ function TopCut() {
         {
           id: 1,
           date: "Lunes, 2 de Agosto",
-          teams: [{ name: "-" }, { name: "-" }],
+          teams: [
+            { name: "IMOCADE - HELENMIKAN" },
+            { name: "SOULOFFARMING - TANAKAHX" },
+          ],
         },
         {
           id: 2,
           date: "Lunes, 2 de Agosto",
-          teams: [{ name: "-" }, { name: "-" }],
+          teams: [
+            { name: "SMASHANDPLAYS - YUKYBARU" },
+            { name: "HATOSITO - MELLMAN_AL" },
+          ],
         },
         {
           id: 3,
           date: "Lunes, 2 de Agosto",
-          teams: [{ name: "-" }, { name: "-" }],
+          teams: [
+            { name: "HELLBEECTOR - URISIA" },
+            { name: "TOKU_DOKU - ACHAMASTER" },
+          ],
         },
         {
           id: 3,
           date: "Lunes, 2 de Agosto",
-          teams: [{ name: "-" }, { name: "-" }],
+          teams: [
+            { name: "KILLZANGG - YURIKOX1618" },
+            { name: "SWEETANAÏS - SHU_R" },
+          ],
         },
         {
           id: 1,
           date: "Lunes, 2 de Agosto",
-          teams: [{ name: "-" }, { name: "-" }],
+          teams: [
+            { name: "MENNSHY - NEFERFUFI" },
+            { name: "GINEBRA08 - MARCREMASTERED" },
+          ],
         },
         {
           id: 2,
           date: "Lunes, 2 de Agosto",
-          teams: [{ name: "-" }, { name: "-" }],
+          teams: [
+            { name: "ONIBIGAMES - RENZOXROCK" },
+            { name: "PONYCORNIO - SRDELORDRAN" },
+          ],
         },
         {
           id: 3,
           date: "Lunes, 2 de Agosto",
-          teams: [{ name: "-" }, { name: "-" }],
+          teams: [
+            { name: "LUCI_KONEKO - ELIRIIN" },
+            { name: "AGUIRADO92 - ANDIDOTH" },
+          ],
         },
         {
           id: 3,
           date: "Lunes, 2 de Agosto",
-          teams: [{ name: "-" }, { name: "-" }],
+          teams: [
+            { name: "CXSMIC_GIRL - MIRIANARAGUNDE" },
+            { name: "MIKUCHINATSU - DEORE" },
+          ],
         },
       ],
     },

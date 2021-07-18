@@ -18,9 +18,7 @@ function Profile(props) {
 
           <div className="absolute top-10 left-24">
             <div className="profile-card-position w-36 h-8 flex items-center p-2 text-white">
-              <p className="font-semibold">
-                {props.isPlayer ? "JUGADOR/A" : "COACH"}
-              </p>
+              <p className="font-semibold">JUGADOR/A</p>
             </div>
           </div>
         </div>

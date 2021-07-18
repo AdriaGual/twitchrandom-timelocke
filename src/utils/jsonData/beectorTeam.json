@@ -1,11 +1,11 @@
 {
-  "playerName": "Beector",
+  "playerName": "HellBeector",
   "playerTwitch": "https://www.twitch.tv/hellobeector",
   "playerImageUrl": "https://pbs.twimg.com/profile_images/1373602504752128007/2ohHladS_400x400.jpg",
-  "hasCoach": false,
-  "coachName": "",
-  "coachTwitch": "",
-  "coachImageUrl": "",
+  "hasCoach": true,
+  "coachName": "Urisia Beropen",
+  "coachTwitch": "https://www.twitch.tv/urisia",
+  "coachImageUrl":  "https://pbs.twimg.com/profile_images/1413621142531846144/dGUx0Ecz_400x400.jpg",
   "badges": 0,
   "time": 0,
   "team": [
