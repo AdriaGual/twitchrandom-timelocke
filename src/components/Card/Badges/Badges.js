@@ -34,14 +34,6 @@ import Off_16 from "../../../assets/images/badges/16_off.png";
 
 function Badges(props) {
   const earnedBadges = [
-    On_1,
-    On_2,
-    On_3,
-    On_4,
-    On_5,
-    On_6,
-    On_7,
-    On_8,
     On_9,
     On_10,
     On_11,
@@ -50,16 +42,16 @@ function Badges(props) {
     On_14,
     On_15,
     On_16,
+    On_1,
+    On_2,
+    On_3,
+    On_4,
+    On_5,
+    On_6,
+    On_7,
+    On_8,
   ];
   const remainingBadges = [
-    Off_1,
-    Off_2,
-    Off_3,
-    Off_4,
-    Off_5,
-    Off_6,
-    Off_7,
-    Off_8,
     Off_9,
     Off_10,
     Off_11,
@@ -68,6 +60,14 @@ function Badges(props) {
     Off_14,
     Off_15,
     Off_16,
+    Off_1,
+    Off_2,
+    Off_3,
+    Off_4,
+    Off_5,
+    Off_6,
+    Off_7,
+    Off_8,
   ];
   const kantoBadges = [0, 1, 2, 3, 4, 5, 6, 7];
   const johtoBadges = [8, 9, 10, 11, 12, 13, 14, 15];
