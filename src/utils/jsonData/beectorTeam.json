@@ -5,9 +5,38 @@
   "hasCoach": true,
   "coachName": "Urisia Beropen",
   "coachTwitch": "https://www.twitch.tv/urisia",
-  "coachImageUrl":  "https://pbs.twimg.com/profile_images/1413621142531846144/dGUx0Ecz_400x400.jpg",
-  "badges": 0,
-  "time": 0,
+  "coachImageUrl": "https://pbs.twimg.com/profile_images/1413621142531846144/dGUx0Ecz_400x400.jpg",
+  "badges": 1,
+  "timeHours": 1,
+  "timeMinutes": 41,
   "team": [
+    {
+      "pokemonName": "IÑAKI",
+      "pokemonIndex": 320,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Puede dejar fuera de combate a sus oponentes con el impacto de su enorme cuerpo al caer en el agua tras uno de sus saltos.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    }
   ]
 }

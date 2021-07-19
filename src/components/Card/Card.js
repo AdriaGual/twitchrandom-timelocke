@@ -44,7 +44,10 @@ function Card(props) {
       </div>
       <div class="grid grid-cols-5 px-2 md:px-8 lg:px-20 pt-8">
         <div class="col-span-2">
-          <Time time={props.data.time}></Time>
+          <Time
+            timeMinutes={props.data.timeMinutes}
+            timeHours={props.data.timeHours}
+          ></Time>
         </div>
         <div class="col-span-3">
           <Badges badges={props.data.badges}></Badges>
