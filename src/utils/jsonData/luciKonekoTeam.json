@@ -2,13 +2,12 @@
   "playerName": "Luci Koneko",
   "playerTwitch": "https://www.twitch.tv/Luci_Koneko",
   "playerImageUrl": "https://pbs.twimg.com/profile_images/1353181260198400006/mEmgS1wH_400x400.jpg",
-  "hasCoach": true,
+  "hasCoach": false,
   "coachName": "Eliriin",
   "coachTwitch": "https://www.twitch.tv/eliriin",
   "coachImageUrl": "https://pbs.twimg.com/profile_images/1293677636011675650/Rfd5G-ci_400x400.jpg",
   "badges": 0,
-    "timeHours": 0,
-  "timeMinutes": 0,
-  "team": [
-  ]
+  "timeHours": 0,
+  "timeMinutes": 7,
+  "team": []
 }

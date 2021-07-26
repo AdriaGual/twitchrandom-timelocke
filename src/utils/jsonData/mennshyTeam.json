@@ -2,13 +2,153 @@
   "playerName": "Mennshy",
   "playerTwitch": "https://www.twitch.tv/mennshy",
   "playerImageUrl": "https://pbs.twimg.com/profile_images/1335958588465041410/YTqSNnOx_400x400.jpg",
-  "hasCoach": true,
+  "hasCoach": false,
   "coachName": "Nefer",
   "coachTwitch": "https://www.twitch.tv/neferfufi",
   "coachImageUrl": "https://pbs.twimg.com/profile_images/1397564230610661379/JjWwVJSV_400x400.jpg",
-  "badges": 0,
-    "timeHours": 0,
+  "badges": 8,
+  "timeHours": 12,
   "timeMinutes": 0,
   "team": [
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 145,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 467,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 444,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 372,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 447,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    }
   ]
 }

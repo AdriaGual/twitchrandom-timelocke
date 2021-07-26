@@ -17,16 +17,31 @@ import mikuchinatsuTeam from "../../utils/jsonData/mikuchinatsuTeam.json";
 import onibigamesTeam from "../../utils/jsonData/onibigamesTeam.json";
 import cxsmicGirlTeam from "../../utils/jsonData/cxsmicGirlTeam.json";
 import beectorTeam from "../../utils/jsonData/beectorTeam.json";
+import antidothTeam from "../../utils/jsonData/antidothTeam.json";
+import mirianaragundeTeam from "../../utils/jsonData/mirianaragundeTeam.json";
+import urisiaTeam from "../../utils/jsonData/urisiaTeam.json";
+import gbatalla8Team from "../../utils/jsonData/gbatalla8Team.json";
+import marcRemasteredTeam from "../../utils/jsonData/marcRemasteredTeam.json";
+import mellmanALTeam from "../../utils/jsonData/mellmanALTeam.json";
+import helenMikanTeam from "../../utils/jsonData/helenMikanTeam.json";
+import yurikoxTeam from "../../utils/jsonData/yurikoxTeam.json";
+import eliriinTeam from "../../utils/jsonData/eliriinTeam.json";
+import neferfufiTeam from "../../utils/jsonData/neferfufiTeam.json";
+import deoreTeam from "../../utils/jsonData/deoreTeam.json";
+import srdelordranTeam from "../../utils/jsonData/srdelordranTeam.json";
+import renzoxrockTeam from "../../utils/jsonData/renzoxrockTeam.json";
+import yukiBaruTeam from "../../utils/jsonData/yukiBaruTeam.json";
+import tanakahxTeam from "../../utils/jsonData/tanakahxTeam.json";
+import shurTeam from "../../utils/jsonData/shurTeam.json";
+import achamasterTeam from "../../utils/jsonData/achamasterTeam.json";
 
 function Main() {
   const streamerTeams = [
     hatositoTeam,
-    mennshyTeam,
     soulofFarmingTeam,
     alejandroGuiradoTeam,
     kilzanGGTeam,
     sweetAnaisTeam,
-    luciKonekoTeam,
     smashPlays1999Team,
     miriamHyruleTeam,
     tokuDokuTeam,
@@ -35,6 +50,25 @@ function Main() {
     onibigamesTeam,
     cxsmicGirlTeam,
     beectorTeam,
+    antidothTeam,
+    mirianaragundeTeam,
+    urisiaTeam,
+    gbatalla8Team,
+    marcRemasteredTeam,
+    mellmanALTeam,
+    helenMikanTeam,
+    yurikoxTeam,
+    eliriinTeam,
+    neferfufiTeam,
+    deoreTeam,
+    srdelordranTeam,
+    renzoxrockTeam,
+    yukiBaruTeam,
+    tanakahxTeam,
+    shurTeam,
+    mennshyTeam,
+    luciKonekoTeam,
+    achamasterTeam,
   ];
 
   return (
@@ -46,11 +80,11 @@ function Main() {
       }}
     >
       <div className="relative">
-        <div class="grid grid-cols-5 absolute inset-0">
+        <div className="grid grid-cols-5 absolute inset-0">
           <div></div>
-          <div class="col-span-3">
+          <div className="col-span-3">
             {streamerTeams.map((data, index) => {
-              return <Card data={data}></Card>;
+              return <Card data={data} key={index}></Card>;
             })}
             <Footer></Footer>
           </div>

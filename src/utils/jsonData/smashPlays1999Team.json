@@ -2,13 +2,181 @@
   "playerName": "SmashPlays",
   "playerTwitch": "https://www.twitch.tv/smashplays1999",
   "playerImageUrl": "https://pbs.twimg.com/profile_images/1411760536539303938/dRH_RWFq_400x400.jpg",
-  "hasCoach": true,
+  "hasCoach": false,
   "coachName": "YukyBaru",
-  "coachTwitch":  "https://www.twitch.tv/yuky_baru",
+  "coachTwitch": "https://www.twitch.tv/yuky_baru",
   "coachImageUrl": "https://pbs.twimg.com/profile_images/1330902895848529920/Yd-AEQJy_400x400.jpg",
-  "badges": 0,
-    "timeHours": 0,
+  "badges": 8,
+  "timeHours": 12,
   "timeMinutes": 0,
   "team": [
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 93,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 296,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 259,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 465,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 196,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 329,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    }
   ]
 }

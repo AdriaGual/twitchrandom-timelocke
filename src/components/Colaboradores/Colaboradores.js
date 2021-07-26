@@ -14,9 +14,9 @@ function Colaboradores() {
       }}
     >
       <div className="relative">
-        <div class="grid grid-cols-5 absolute inset-0">
+        <div className="grid grid-cols-5 absolute inset-0">
           <div></div>
-          <div class="col-span-3">
+          <div className="col-span-3">
             <div className="py-10">
               {colaborators.map((data, index) => {
                 return (

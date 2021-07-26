@@ -19,7 +19,7 @@ Modal.setAppElement(document.getElementById("root"));
 const Pokemon = (props) => {
   const [modalIsOpen, setIsOpen] = useState(false);
   const [pokemonSprite, setPokemonSprite] = useState(null);
-
+  const [pokemonName, setPokemonName] = useState(null);
   useEffect(() => {
     getPokemonSprite();
   });
@@ -35,9 +35,10 @@ const Pokemon = (props) => {
   const getPokemonSprite = useCallback(async () => {
     const {
       sprites: { front_default: sprite },
+      name,
     } = await PokeAPI.getPokemonByName(props.pokemonIndex + 1);
-
     setPokemonSprite(sprite);
+    setPokemonName(name.toUpperCase());
   }, [props.pokemonIndex]);
 
   return (
@@ -48,7 +49,7 @@ const Pokemon = (props) => {
           className="mx-auto h-32"
           alt={pokemonSprite}
         ></img>
-        <p className="text-center font-semibold text-lg">{props.pokemonName}</p>
+        <p className="text-center font-semibold text-lg">{pokemonName}</p>
       </div>
       <Modal
         isOpen={modalIsOpen}
@@ -57,7 +58,7 @@ const Pokemon = (props) => {
         style={customStyles}
         contentLabel={pokemonSprite}
       >
-        <div class="grid grid-cols-4">
+        <div className="grid grid-cols-4">
           <div className="col-span-2">
             <img
               src={pokemonSprite}
@@ -76,7 +77,7 @@ const Pokemon = (props) => {
 
           <div className="col-span-2">
             {props.pokemonMoves.map((data, index) => {
-              return <Move data={data}></Move>;
+              return <Move data={data} key={index}></Move>;
             })}
           </div>
         </div>

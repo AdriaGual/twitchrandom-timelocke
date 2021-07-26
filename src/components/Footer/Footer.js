@@ -5,9 +5,9 @@ import { Link } from "react-router-dom";
 function Footer() {
   return (
     <div className=" h-24 bg-black relative">
-      <div class="grid grid-cols-5 absolute inset-0">
+      <div className="grid grid-cols-5 absolute inset-0">
         <div></div>
-        <div class="col-span-3 flex items-center">
+        <div className="col-span-3 flex items-center">
           <div className="flex gap-4 text-white">
             © 2021 by Adrià Gual
             <a

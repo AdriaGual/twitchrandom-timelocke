@@ -18,7 +18,7 @@ function Time(props) {
   return (
     <div>
       <p className="font-semibold text-lg">TIEMPO RESTANTE</p>
-      <div class="mt-2">
+      <div className="mt-2">
         <p>{remainingHours + ":" + remainingMinutes} h</p>
       </div>
     </div>

@@ -6,9 +6,9 @@ import Time from "./Time/Time";
 
 function Card(props) {
   return (
-    <div class="w-full border-4 rounded border-purple bg-white my-4 py-6">
-      <div class="grid grid-cols-5 px-2 md:px-8 lg:px-20">
-        <div class="col-span-2">
+    <div className="w-full border-4 rounded border-purple bg-white my-4 py-6">
+      <div className="grid grid-cols-5 px-2 md:px-8 lg:px-20">
+        <div className="col-span-2">
           <Profile
             isPlayer={true}
             name={props.data.playerName}
@@ -26,8 +26,8 @@ function Card(props) {
             ""
           )}
         </div>
-        <div class="col-span-3">
-          <div class="grid grid-cols-3 gap-4 h-full">
+        <div className="col-span-3">
+          <div className="grid grid-cols-3 gap-4 h-full">
             {props.data.team.map((data, index) => {
               return (
                 <Pokemon
@@ -36,20 +36,21 @@ function Card(props) {
                   pokemonMoves={data.pokemonMoves}
                   pokemonHability={data.pokemonHability}
                   pokemonDescription={data.pokemonDescription}
+                  key={index}
                 ></Pokemon>
               );
             })}
           </div>
         </div>
       </div>
-      <div class="grid grid-cols-5 px-2 md:px-8 lg:px-20 pt-8">
-        <div class="col-span-2">
+      <div className="grid grid-cols-5 px-2 md:px-8 lg:px-20 pt-8">
+        <div className="col-span-2">
           <Time
             timeMinutes={props.data.timeMinutes}
             timeHours={props.data.timeHours}
           ></Time>
         </div>
-        <div class="col-span-3">
+        <div className="col-span-3">
           <Badges badges={props.data.badges}></Badges>
         </div>
       </div>

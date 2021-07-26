@@ -1,18 +1,18 @@
 {
-  "playerName": "Toku Doku",
-  "playerTwitch": "https://www.twitch.tv/toku_doku",
-  "playerImageUrl": "https://pbs.twimg.com/profile_images/1378631691535839233/7ZPg0s-P_400x400.jpg",
+  "playerName": "Nefer",
+  "playerTwitch": "https://www.twitch.tv/neferfufi",
+  "playerImageUrl": "https://pbs.twimg.com/profile_images/1397564230610661379/JjWwVJSV_400x400.jpg",
   "hasCoach": false,
-  "coachName": "Achamaster",
-  "coachTwitch": "https://www.twitch.tv/achamaster",
-  "coachImageUrl": "https://pbs.twimg.com/profile_images/1405166629953015813/P4qa-p-k_400x400.jpg",
+  "coachName": "Nefer",
+  "coachTwitch": "https://www.twitch.tv/neferfufi",
+  "coachImageUrl": "https://pbs.twimg.com/profile_images/1397564230610661379/JjWwVJSV_400x400.jpg",
   "badges": 4,
-  "timeHours": 9,
+  "timeHours": 10,
   "timeMinutes": 0,
   "team": [
     {
       "pokemonName": "ELECTIVIRE",
-      "pokemonIndex": 304,
+      "pokemonIndex": 184,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
@@ -40,7 +40,7 @@
     },
     {
       "pokemonName": "ELECTIVIRE",
-      "pokemonIndex": 168,
+      "pokemonIndex": 53,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
@@ -68,7 +68,7 @@
     },
     {
       "pokemonName": "ELECTIVIRE",
-      "pokemonIndex": 134,
+      "pokemonIndex": 427,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
@@ -96,7 +96,7 @@
     },
     {
       "pokemonName": "ELECTIVIRE",
-      "pokemonIndex": 93,
+      "pokemonIndex": 152,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [
@@ -124,7 +124,35 @@
     },
     {
       "pokemonName": "ELECTIVIRE",
-      "pokemonIndex": 196,
+      "pokemonIndex": 363,
+      "pokemonHability": "Mar Llamas",
+      "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "pokemonMoves": [
+        {
+          "moveName": "Megacuerno",
+          "PP": 10,
+          "type": "Bicho"
+        },
+        {
+          "moveName": "Vozarrón",
+          "PP": 10,
+          "type": "Normal"
+        },
+        {
+          "moveName": "Gigadrenado",
+          "PP": 5,
+          "type": "Planta"
+        },
+        {
+          "moveName": "Rayo",
+          "PP": 15,
+          "type": "Eléctrico"
+        }
+      ]
+    },
+    {
+      "pokemonName": "ELECTIVIRE",
+      "pokemonIndex": 228,
       "pokemonHability": "Mar Llamas",
       "pokemonDescription": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
       "pokemonMoves": [

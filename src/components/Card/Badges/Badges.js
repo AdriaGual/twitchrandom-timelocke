@@ -70,38 +70,30 @@ function Badges(props) {
     Off_8,
   ];
   const kantoBadges = [0, 1, 2, 3, 4, 5, 6, 7];
-  const johtoBadges = [8, 9, 10, 11, 12, 13, 14, 15];
+  //const johtoBadges = [8, 9, 10, 11, 12, 13, 14, 15];
 
   return (
     <div>
       <p className="font-semibold text-lg">MEDALLAS</p>
-      <div class="grid grid-cols-2">
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 md:gap-4 mt-2">
-          {kantoBadges.map((data, index) => {
-            return data < props.badges ? (
-              <img src={earnedBadges[data]} alt={index} className="h-8"></img>
-            ) : (
-              <img
-                src={remainingBadges[data]}
-                alt={index}
-                className="h-8"
-              ></img>
-            );
-          })}
-        </div>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 md:gap-4 mt-2">
-          {johtoBadges.map((data, index) => {
-            return data < props.badges ? (
-              <img src={earnedBadges[data]} alt={index} className="h-8"></img>
-            ) : (
-              <img
-                src={remainingBadges[data]}
-                alt={index}
-                className="h-8"
-              ></img>
-            );
-          })}
-        </div>
+
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-2 md:gap-4 mt-2">
+        {kantoBadges.map((data, index) => {
+          return data < props.badges ? (
+            <img
+              src={earnedBadges[data]}
+              alt={index}
+              className="h-8"
+              key={index}
+            ></img>
+          ) : (
+            <img
+              src={remainingBadges[data]}
+              alt={index}
+              className="h-8"
+              key={index}
+            ></img>
+          );
+        })}
       </div>
     </div>
   );
